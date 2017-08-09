@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CITIES.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ROADS.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/DB.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/clients.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/log-pas.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/reader.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/requestHandlers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/router.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SERVER/server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TOPMAIN.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WALKERS.js" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+var a = [], b = [];
+for(var i = 0; i < Math.round(Math.random()*20); i++) {
+	a.push(Math.round(Math.random()*100));
+}
+console.log(a);
+a.splice(2, a.length-4);
+console.log(a);

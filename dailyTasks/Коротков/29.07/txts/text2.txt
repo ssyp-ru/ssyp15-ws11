@@ -1,0 +1,8 @@
+I, my,
+You, your,
+He, his,
+She, her,
+It, its,
+We, our,
+You, your,
+They, their.

@@ -1,0 +1,66 @@
+var canvas = document.getElementById("canvas");
+ctx = canvas.getContext('2d');
+
+var heads = [];
+
+var Head = function(x, y, width, height, sx, sy, index) {
+    this.x = x;
+    this.y = y;
+    this.width  = width;
+    this.height = height;
+
+    this.speedx = sx;
+    this.speedy = sy;
+
+    this.index = index;
+
+    this.draw = function() {
+        ctx.drawImage(document.images[this.index], this.x, this.y, this.width, this.height);
+    };
+
+    this.move = function() {
+        if(this.x < this.width/2 || this.x > canvas.width - this.width) {
+            console.log("LEFT/RIGHT");
+            this.speedx *= -1;
+        }
+
+        if(this.y < this.height/2 || this.y > canvas.height - this.height) {
+            console.log("UP/DOWN");
+            this.speedy *= -1;
+        }
+
+        this.x += this.speedx;
+        this.y += this.speedy;
+    };
+
+    heads.push(this);
+};
+
+function clrScr() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+}
+                            //COORDS   //SIZE    //SPEED     //IMG
+var head_0_Arseny = new Head(150, 150,   200, 200,   1, 2,       0);
+var head_1_Danil  = new Head(200, 200,   250, 250,   0.2, 0.1,   1);
+var head_2_Nikita = new Head(200, 200,   150, 150,   0.5, 1,     2);
+var head_3_Kostya = new Head(250, 250,   200, 200,   1, 0.1,     3);
+var head_4_Sergei = new Head(300, 300,   250, 250,   1, 1.5,     4);
+var head_5_Jenya  = new Head(150, 200,   200, 200,   1, 0.5,     5);
+var head_6_Artem  = new Head(200, 150,   200, 200,   0.5, 1,     6);
+var head_7_sm1    = new Head(150, 200,   150, 150,   1, 3,       7);
+var head_8_sm2    = new Head(200, 250,   150, 150,   3, 2.5,     8);
+var head_9_MASTER = new Head(250, 250,   228, 228,   2.5, 0.4,   9);
+
+
+
+setInterval(function() {
+    clrScr();
+
+
+
+    for(var i = 0; i < heads.length; i++) {
+        heads[i].draw();
+        heads[i].move();
+    }
+}, 1);
+

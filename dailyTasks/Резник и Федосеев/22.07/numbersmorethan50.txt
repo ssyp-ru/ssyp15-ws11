@@ -1,0 +1,8 @@
+var a;
+for(var i = 0;i < 100; i++)
+{
+	a.push(Math.round(Math.random()*100));
+}
+console.log(a);
+var b = a.filter(function(x){return x>50});
+console.log(b);

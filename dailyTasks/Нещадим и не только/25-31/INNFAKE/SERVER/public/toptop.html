@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #efefef;
+            font-family: Verdana;
+        }
+
+        #h {
+            color: #222;
+            font-size: 16pt;
+            margin: -30px 0 5px;
+            display: block;
+        }
+
+        #top {
+            overflow: hidden;
+
+        }
+
+        #page {
+            width: 90%;
+            height: 95%;
+            background: #fdfdfd;
+            margin: 3.5%;
+            border: 1px solid #d1d1d1;
+            padding: 10px;
+        }
+
+        .button {
+            border: 0;
+            color: #fff;
+            padding: 10px;
+            background: #faa400;
+            text-align: center;
+            z-index: 9999;
+        }
+
+        .button:hover {
+            cursor: pointer;
+            background: #eb9a00;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        setInterval(update,1700);
+        function readress(name) {
+            // console.log(location);
+            location = location.origin + name;
+        }
+        function update()
+    {
+        updateTops();
+    }
+        function sendReq(name, func) {
+            var request = new XMLHttpRequest();
+            request.open("GET", name);
+            request.onload = func;
+            request.send(null);
+
+        }
+        function updateTops() {
+            var name=document.getElementById("ta").value;
+            var nname="";
+            switch (name){
+                case "Уровень":nname="lv"; break;
+                case "Мораль":nname="ml";break;
+                case "Выполненные квесты":nname="qc";break;
+                case "Пол":nname="gend";break;
+            }
+            var n="/topP?sort="+nname;
+            sendReq(n,function(res)
+            {
+                document.getElementById("top").innerHTML=res.currentTarget.responseText;
+            })
+        }
+        function log()
+        {
+            console.log(document.getElementById("ta").value);
+        }
+    </script>
+</head>
+<body>
+<div id="page">
+    <input type="button" onclick="readress('/')" class="button" value="В меню">
+    <input type="button" onclick="readress('/me')" class="button" value="К пероснажу">
+    <span id="h"><center>Топ игроков</center></span>
+    <p> Сортировать игроков по:
+        <select id="ta" onclick="log()">
+            <option name="lv">Уровень</option>
+            <option name="ml">Мораль</option>
+            <option name="qc">Выполненные квесты</option>
+            <option name="gend">Пол</option>
+        </select>
+    </p>
+
+
+    <span id="top"></span>
+</div>
+</body>
+</html>

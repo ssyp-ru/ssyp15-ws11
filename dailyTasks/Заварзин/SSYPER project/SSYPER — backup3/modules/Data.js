@@ -1,0 +1,21 @@
+Town=require("./Town.js");
+Road=require("./Road.js");
+Quest=require("./Quest.js");
+var Towns=[];
+Towns[0]=new Town("Shop",[new Road(1,2,30)]);
+Towns[1]=new Town("Gate",[new Road(2,1,30),new Road(2,3,70)]);
+Towns[2]=new Town("N1",[new Road(3,2,70),new Road(3,4,10),new Road(3,5,150)]);
+Towns[3]=new Town("Workshop",[new Road(4,3,10)]);
+Towns[4]=new Town("N2",[new Road(5,3,150),new Road(5,6,10),new Road(5,7,20)]);
+Towns[5]=new Town("Canteen",[new Road(6,5,10)]);
+Towns[6]=new Town("N3",[new Road(7,5,20),new Road(7,8,90),new Road(7,9,100)]);
+Towns[7]=new Town("Pool",[new Road(8,7,90)]);
+Towns[8]=new Town("Square",[new Road(9,7,100),new Road(9,10,100),new Road(9,11,20)]);
+Towns[9]=new Town("Soccer",[new Road(10,9,100)]);
+Towns[10]=new Town("MainHouse",[new Road(11,9,20)]);
+
+var QuestBase=[];
+QuestBase.push(new Quest("Go to shop",0,"g",1,"BUY KOROVKA AND LUS 500 RUBLEI!!!!!"));
+QuestBase.push(new Quest("Pley Fatball",0,"g",10,"PLEID FATBAL AND BREK NOGA!"));
+QuestBase.push(new Quest("kill Dulcev",0,"g",6,"killed Dulcev!!!!"));
+module.exports=[Towns,QuestBase];

@@ -1,0 +1,2684 @@
+Agul poluchil Aguls bage !!!
+Redko poluchil Redkos bage !!!
+Opasny poluchil Opasnys bage !!!
+Lenya poluchil Lenyas bage !!!
+Beska poluchil Beskas bage !!!
+Mezhlshupnaya igra v killera nachinaetsya!!!
+Agul dolzhen ubit Opasny
+Redko dolzhen ubit Lenya
+Opasny dolzhen ubit Beska
+Lenya dolzhen ubit Agul
+Beska dolzhen ubit Redko
+Day 1 09:00
+Agul go to brekfast
+Day 1 09:00
+Redko go to brekfast
+Day 1 09:00
+Opasny go to brekfast
+Day 1 09:00
+Lenya go to brekfast
+Day 1 09:00
+Beska go to brekfast
+Day 1 09:01
+Agul arrived Square
+Day 1 09:01
+Redko arrived Canteen
+Day 1 09:01
+Opasny arrived Gate
+Day 1 09:01
+Lenya arrived N2
+Day 1 09:01
+Beska arrived N1
+Day 1 09:03
+Lenya arrived Canteen
+Day 1 09:04
+Agul arrived N3
+Day 1 09:05
+Opasny arrived N1
+Day 1 09:06
+Agul arrived N2
+Opasny killed Beska !!!
+Opasny dolzhen ubit Redko
+Day 1 09:08
+Agul arrived Canteen
+Day 1 09:10
+Beska arrived N2
+Day 1 09:11
+Redko pozavtrakal and wasted 10 minutes
+Day 1 09:11
+Opasny arrived N2
+Redko killed Lenya !!!
+Redko dolzhen ubit Agul
+Day 1 09:12
+Beska arrived Canteen
+Redko killed Agul !!!
+Mezhlshupnaya igra v killera zavershilas!Itogi:
+Agul:mertv.Ubiza-Redko.Igrokov ubito:0
+Redko:zhiva.Igrokov ubito:2
+Opasny:zhiv.Igrokov ubito:1
+Lenya:mertv.Ubiza-Redko.Igrokov ubito:0
+Beska:mertva.Ubiza-Opasny.Igrokov ubito:0
+Ubivshih bol'she vseh i vizhivshih zhdet nagrada!!
+Redko poluchil Znachek krutogo killera !!!
+Opasny poluchil Znachek krutogo killera !!!
+Day 1 09:13
+Opasny arrived Canteen
+Day 1 09:13
+Lenya pozavtrakal and wasted 10 minutes
+Day 1 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 1 09:22
+Beska pozavtrakal and wasted 10 minutes
+Day 1 09:23
+Opasny pozavtrakal and wasted 10 minutes
+Day 1 09:43
+Beska vnezapno usnul
+Day 1 09:58
+Beska prosnuls9 and wasted 15 minutes
+Day 1 10:21
+Redko hochet pley Fatball
+Day 1 10:23
+Redko arrived N2
+Day 1 10:25
+Redko arrived N3
+Day 1 10:29
+Redko arrived Square
+Day 1 10:29
+Lenya need to go shop
+Day 1 10:31
+Lenya arrived N2
+Day 1 10:33
+Redko arrived Soccer
+Day 1 10:35
+Lenya arrived N1
+Day 1 10:37
+Lenya arrived Gate
+Day 1 10:39
+Lenya arrived Shop
+Day 1 10:49
+Lenya BUY KOROVKA AND LUS 500 RUBLEI!!!!! and wasted 10 minutes
+Lenya poluchil korovka !!!
+Day 1 10:53
+Redko PLEID FATBAL AND BREK NOGA! and wasted 20 minutes
+Day 1 10:53
+Redko must go to de doc
+Day 1 10:58
+Redko arrived Square
+Day 1 11:00
+Redko arrived MainHouse
+Redko poluchil kamen !!!
+Day 1 11:12
+Lenya reshil podkupit mastera korovkoi
+Day 1 11:14
+Lenya arrived Gate
+Day 1 11:16
+Lenya arrived N1
+Day 1 11:20
+Lenya arrived N2
+Day 1 11:22
+Lenya arrived Canteen
+Day 1 11:27
+Lenya PODKUPIL KOROVKOI i POLUCHIL KRUTOI BEIJ!! and wasted 5 minutes
+Lenya poluchil krutoi beij !!!
+Day 1 11:30
+Redko POCHINILSA and wasted 30 minutes
+Day 1 12:42
+Lenya poteryal beigik!
+Day 1 12:47
+Lenya plakal i iskal and wasted 5 minutes
+Day 1 13:00
+Agul go to lunch
+Day 1 13:00
+Redko go to lunch
+Day 1 13:00
+Opasny go to lunch
+Day 1 13:00
+Lenya go to lunch
+Day 1 13:00
+Beska go to lunch
+Day 1 13:01
+Redko arrived Square
+Day 1 13:05
+Redko arrived N3
+Day 1 13:07
+Redko arrived N2
+Day 1 13:09
+Redko arrived Canteen
+Day 1 13:10
+Agul poobedal and wasted 10 minutes
+Day 1 13:10
+Opasny poobedal and wasted 10 minutes
+Day 1 13:10
+Lenya ne poobedal and wasted 10 minutes
+Day 1 13:10
+Beska poobedal and wasted 10 minutes
+Day 1 13:19
+Redko poobedal and wasted 10 minutes
+Day 1 13:24
+Beska ukushen i dolzhen polechitsya
+Day 1 13:26
+Beska arrived N2
+Day 1 13:28
+Beska arrived N3
+Day 1 13:34
+Beska arrived Square
+Day 1 13:36
+Beska arrived MainHouse
+Day 1 13:51
+Beska vizdorovel!!! and wasted 15 minutes
+Day 1 14:16
+Beska vnezapno usnul
+Day 1 14:31
+Beska prosnuls9 and wasted 15 minutes
+Day 1 16:42
+Agul nameren kill Dulcev
+Day 1 16:46
+Beska zav9zivaet shnurki
+Day 1 16:47
+Agul killed Dulcev!!!! and wasted 5 minutes
+Day 1 16:49
+Beska zav9zal and wasted 3 minutes
+Day 1 18:34
+Lenya zav9zivaet shnurki
+Day 1 18:37
+Lenya zav9zal and wasted 3 minutes
+Day 1 19:00
+Agul go to dinner
+Day 1 19:00
+Redko go to dinner
+Day 1 19:00
+Opasny go to dinner
+Day 1 19:00
+Lenya go to dinner
+Day 1 19:00
+Beska go to dinner
+Day 1 19:01
+Beska arrived Square
+Day 1 19:07
+Beska arrived N3
+Day 1 19:09
+Beska arrived N2
+Day 1 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 1 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 1 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 1 19:10
+Lenya ne pouzhinal and wasted 10 minutes
+Day 1 19:11
+Beska arrived Canteen
+Beska poluchil Lenyas bage !!!
+Day 1 19:21
+Beska pouzhinal and wasted 10 minutes
+Beska otdal naidenny bage of Lenya
+Lenya poluchil Lenyas bage !!!
+Day 1 20:29
+Beska wanna plei bil'yard
+Day 1 20:31
+Beska arrived N2
+Day 1 20:33
+Beska arrived N3
+Day 1 20:39
+Beska arrived Pool
+Day 1 21:00
+Agul go to second dinner
+Day 1 21:00
+Redko go to second dinner
+Day 1 21:00
+Opasny go to second dinner
+Day 1 21:00
+Lenya go to second dinner
+Day 1 21:00
+Beska go to second dinner
+Day 1 21:09
+Beska slomal kiy i zaplatil and wasted 30 minutes
+Day 1 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 1 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 1 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 1 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 1 21:16
+Beska arrived N3
+Day 1 21:18
+Beska arrived N2
+Day 1 21:20
+Beska arrived Canteen
+Day 1 21:30
+Beska povtorouzhinal and wasted 10 minutes
+Day 1 22:07
+Agul zav9zivaet shnurki
+Day 1 22:10
+Agul zav9zal and wasted 3 minutes
+Day 1 23:00
+Agul go to sleep
+Day 1 23:00
+Redko go to sleep
+Day 1 23:00
+Opasny go to sleep
+Day 1 23:00
+Lenya go to sleep
+Day 1 23:00
+Beska go to sleep
+Day 1 23:01
+Agul arrived N2
+Day 1 23:01
+Redko arrived N2
+Day 1 23:01
+Opasny arrived N2
+Day 1 23:01
+Lenya arrived N2
+Day 1 23:01
+Beska arrived N2
+Day 1 23:03
+Agul arrived N3
+Day 1 23:03
+Redko arrived N3
+Day 1 23:03
+Opasny arrived N3
+Day 1 23:03
+Lenya arrived N3
+Day 1 23:03
+Beska arrived N3
+Day 1 23:06
+Agul arrived Square
+Day 1 23:06
+Lenya arrived Square
+Day 1 23:07
+Redko arrived Square
+Day 1 23:08
+Agul arrived MainHouse
+Day 1 23:08
+Opasny arrived Square
+Day 1 23:08
+Lenya arrived MainHouse
+Day 1 23:09
+Redko arrived MainHouse
+Day 1 23:09
+Beska arrived Square
+Day 1 23:10
+Opasny arrived MainHouse
+Day 1 23:11
+Beska arrived MainHouse
+Day 2 07:08
+Agul usnul and wasted 480 minutes
+Day 2 07:08
+Lenya usnul and wasted 480 minutes
+Day 2 07:09
+Redko usnul and wasted 480 minutes
+Day 2 07:10
+Opasny usnul and wasted 480 minutes
+Day 2 07:11
+Beska usnul and wasted 480 minutes
+Day 2 09:00
+Agul go to brekfast
+Day 2 09:00
+Redko go to brekfast
+Day 2 09:00
+Opasny go to brekfast
+Day 2 09:00
+Lenya go to brekfast
+Day 2 09:00
+Beska go to brekfast
+Day 2 09:01
+Agul arrived Square
+Day 2 09:01
+Redko arrived Square
+Day 2 09:01
+Opasny arrived Square
+Day 2 09:01
+Lenya arrived Square
+Day 2 09:01
+Beska arrived Square
+Day 2 09:04
+Agul arrived N3
+Day 2 09:04
+Lenya arrived N3
+Day 2 09:05
+Redko arrived N3
+Day 2 09:06
+Agul arrived N2
+Day 2 09:06
+Opasny arrived N3
+Day 2 09:06
+Lenya arrived N2
+Day 2 09:07
+Redko arrived N2
+Day 2 09:07
+Beska arrived N3
+Day 2 09:08
+Agul arrived Canteen
+Day 2 09:08
+Opasny arrived N2
+Day 2 09:08
+Lenya arrived Canteen
+Day 2 09:09
+Redko arrived Canteen
+Day 2 09:09
+Beska arrived N2
+Day 2 09:10
+Opasny arrived Canteen
+Day 2 09:11
+Beska arrived Canteen
+Day 2 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 2 09:18
+Lenya pozavtrakal and wasted 10 minutes
+Day 2 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 2 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 2 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 2 13:00
+Agul go to lunch
+Day 2 13:00
+Redko go to lunch
+Day 2 13:00
+Opasny go to lunch
+Day 2 13:00
+Lenya go to lunch
+Day 2 13:00
+Beska go to lunch
+Day 2 13:10
+Agul poobedal and wasted 10 minutes
+Day 2 13:10
+Redko poobedal and wasted 10 minutes
+Day 2 13:10
+Opasny poobedal and wasted 10 minutes
+Day 2 13:10
+Lenya poobedal and wasted 10 minutes
+Day 2 13:10
+Beska poobedal and wasted 10 minutes
+Day 2 14:55
+Opasny zav9zivaet shnurki
+Day 2 14:58
+Opasny zav9zal and wasted 3 minutes
+Day 2 14:58
+Lenya poteryal beigik!
+Day 2 15:03
+Lenya plakal i iskal and wasted 5 minutes
+Day 2 15:08
+Opasny otzhimaetsya
+Day 2 15:13
+Opasny otzhals9 and wasted 5 minutes
+Day 2 16:20
+Redko vnezapno usnul
+Day 2 16:35
+Redko prosnuls9 and wasted 15 minutes
+Day 2 17:21
+Beska vnezapno usnul
+Day 2 17:36
+Beska prosnuls9 and wasted 15 minutes
+Day 2 19:00
+Agul go to dinner
+Day 2 19:00
+Redko go to dinner
+Day 2 19:00
+Opasny go to dinner
+Day 2 19:00
+Lenya go to dinner
+Day 2 19:00
+Beska go to dinner
+Day 2 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 2 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 2 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 2 19:10
+Lenya ne pouzhinal and wasted 10 minutes
+Day 2 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 2 21:00
+Agul go to second dinner
+Day 2 21:00
+Redko go to second dinner
+Day 2 21:00
+Opasny go to second dinner
+Day 2 21:00
+Lenya go to second dinner
+Day 2 21:00
+Beska go to second dinner
+Day 2 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 2 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 2 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 2 21:10
+Lenya ne povtorouzhinal and wasted 10 minutes
+Day 2 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 2 23:00
+Agul go to sleep
+Day 2 23:00
+Redko go to sleep
+Day 2 23:00
+Opasny go to sleep
+Day 2 23:00
+Lenya go to sleep
+Day 2 23:00
+Beska go to sleep
+Day 2 23:01
+Agul arrived N2
+Day 2 23:01
+Redko arrived N2
+Day 2 23:01
+Opasny arrived N2
+Day 2 23:01
+Lenya arrived N2
+Day 2 23:01
+Beska arrived N2
+Day 2 23:03
+Agul arrived N3
+Day 2 23:03
+Redko arrived N3
+Day 2 23:03
+Opasny arrived N3
+Day 2 23:03
+Lenya arrived N3
+Day 2 23:03
+Beska arrived N3
+Day 2 23:06
+Agul arrived Square
+Day 2 23:06
+Lenya arrived Square
+Day 2 23:07
+Redko arrived Square
+Day 2 23:08
+Agul arrived MainHouse
+Day 2 23:08
+Opasny arrived Square
+Day 2 23:08
+Lenya arrived MainHouse
+Day 2 23:09
+Redko arrived MainHouse
+Day 2 23:09
+Beska arrived Square
+Day 2 23:10
+Opasny arrived MainHouse
+Day 2 23:11
+Beska arrived MainHouse
+Day 3 07:08
+Agul usnul and wasted 480 minutes
+Day 3 07:08
+Lenya usnul and wasted 480 minutes
+Day 3 07:09
+Redko usnul and wasted 480 minutes
+Day 3 07:10
+Opasny usnul and wasted 480 minutes
+Day 3 07:11
+Beska usnul and wasted 480 minutes
+Day 3 09:00
+Agul go to brekfast
+Day 3 09:00
+Redko go to brekfast
+Day 3 09:00
+Opasny go to brekfast
+Day 3 09:00
+Lenya go to brekfast
+Day 3 09:00
+Beska go to brekfast
+Day 3 09:01
+Agul arrived Square
+Day 3 09:01
+Redko arrived Square
+Day 3 09:01
+Opasny arrived Square
+Day 3 09:01
+Lenya arrived Square
+Day 3 09:01
+Beska arrived Square
+Day 3 09:04
+Agul arrived N3
+Day 3 09:04
+Lenya arrived N3
+Day 3 09:05
+Redko arrived N3
+Day 3 09:06
+Agul arrived N2
+Day 3 09:06
+Opasny arrived N3
+Day 3 09:06
+Lenya arrived N2
+Day 3 09:07
+Redko arrived N2
+Day 3 09:07
+Beska arrived N3
+Day 3 09:08
+Agul arrived Canteen
+Agul poluchil Lenyas bage !!!
+Day 3 09:08
+Opasny arrived N2
+Day 3 09:08
+Lenya arrived Canteen
+Day 3 09:09
+Redko arrived Canteen
+Day 3 09:09
+Beska arrived N2
+Day 3 09:10
+Opasny arrived Canteen
+Day 3 09:11
+Beska arrived Canteen
+Day 3 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 3 09:18
+Lenya ne pozavtrakal and wasted 10 minutes
+Agul otdal naidenny bage of Lenya
+Lenya poluchil Lenyas bage !!!
+Day 3 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 3 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 3 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 3 11:26
+Lenya vnezapno usnul
+Day 3 11:41
+Lenya prosnuls9 and wasted 15 minutes
+Day 3 12:17
+Redko poteryal beigik!
+Day 3 12:22
+Redko plakal i iskal and wasted 5 minutes
+Day 3 13:00
+Agul go to lunch
+Day 3 13:00
+Redko go to lunch
+Day 3 13:00
+Opasny go to lunch
+Day 3 13:00
+Lenya go to lunch
+Day 3 13:00
+Beska go to lunch
+Day 3 13:10
+Agul poobedal and wasted 10 minutes
+Day 3 13:10
+Redko ne poobedal and wasted 10 minutes
+Day 3 13:10
+Opasny poobedal and wasted 10 minutes
+Day 3 13:10
+Lenya poobedal and wasted 10 minutes
+Day 3 13:10
+Beska poobedal and wasted 10 minutes
+Day 3 19:00
+Agul go to dinner
+Day 3 19:00
+Redko go to dinner
+Day 3 19:00
+Opasny go to dinner
+Day 3 19:00
+Lenya go to dinner
+Day 3 19:00
+Beska go to dinner
+Day 3 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 3 19:10
+Redko ne pouzhinal and wasted 10 minutes
+Day 3 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 3 19:10
+Lenya pouzhinal and wasted 10 minutes
+Day 3 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 3 20:25
+Redko vnezapno usnul
+Day 3 20:40
+Redko prosnuls9 and wasted 15 minutes
+Day 3 21:00
+Agul go to second dinner
+Day 3 21:00
+Redko go to second dinner
+Day 3 21:00
+Opasny go to second dinner
+Day 3 21:00
+Lenya go to second dinner
+Day 3 21:00
+Beska go to second dinner
+Day 3 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 3 21:10
+Redko ne povtorouzhinal and wasted 10 minutes
+Day 3 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 3 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 3 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 3 22:14
+Opasny zav9zivaet shnurki
+Day 3 22:17
+Opasny zav9zal and wasted 3 minutes
+Day 3 23:00
+Agul go to sleep
+Day 3 23:00
+Redko go to sleep
+Day 3 23:00
+Opasny go to sleep
+Day 3 23:00
+Lenya go to sleep
+Day 3 23:00
+Beska go to sleep
+Day 3 23:01
+Agul arrived N2
+Day 3 23:01
+Redko arrived N2
+Day 3 23:01
+Opasny arrived N2
+Day 3 23:01
+Lenya arrived N2
+Day 3 23:01
+Beska arrived N2
+Day 3 23:03
+Agul arrived N3
+Day 3 23:03
+Redko arrived N3
+Day 3 23:03
+Opasny arrived N3
+Day 3 23:03
+Lenya arrived N3
+Day 3 23:03
+Beska arrived N3
+Day 3 23:06
+Agul arrived Square
+Day 3 23:06
+Lenya arrived Square
+Day 3 23:07
+Redko arrived Square
+Day 3 23:08
+Agul arrived MainHouse
+Day 3 23:08
+Opasny arrived Square
+Day 3 23:08
+Lenya arrived MainHouse
+Day 3 23:09
+Redko arrived MainHouse
+Day 3 23:09
+Beska arrived Square
+Day 3 23:10
+Opasny arrived MainHouse
+Day 3 23:11
+Beska arrived MainHouse
+Day 4 07:08
+Agul usnul and wasted 480 minutes
+Day 4 07:08
+Lenya usnul and wasted 480 minutes
+Day 4 07:09
+Redko usnul and wasted 480 minutes
+Day 4 07:10
+Opasny usnul and wasted 480 minutes
+Day 4 07:11
+Beska usnul and wasted 480 minutes
+Day 4 08:43
+Lenya poteryal beigik!
+Day 4 08:48
+Lenya plakal i iskal and wasted 5 minutes
+Day 4 09:00
+Agul go to brekfast
+Day 4 09:00
+Redko go to brekfast
+Day 4 09:00
+Opasny go to brekfast
+Day 4 09:00
+Lenya go to brekfast
+Day 4 09:00
+Beska go to brekfast
+Day 4 09:01
+Agul arrived Square
+Day 4 09:01
+Redko arrived Square
+Day 4 09:01
+Opasny arrived Square
+Day 4 09:01
+Lenya arrived Square
+Day 4 09:01
+Beska arrived Square
+Day 4 09:04
+Agul arrived N3
+Day 4 09:04
+Lenya arrived N3
+Day 4 09:05
+Redko arrived N3
+Day 4 09:06
+Agul arrived N2
+Day 4 09:06
+Opasny arrived N3
+Day 4 09:06
+Lenya arrived N2
+Day 4 09:07
+Redko arrived N2
+Day 4 09:07
+Beska arrived N3
+Day 4 09:08
+Agul arrived Canteen
+Agul poluchil Redkos bage !!!
+Day 4 09:08
+Opasny arrived N2
+Day 4 09:08
+Lenya arrived Canteen
+Day 4 09:09
+Redko arrived Canteen
+Day 4 09:09
+Beska arrived N2
+Day 4 09:10
+Opasny arrived Canteen
+Day 4 09:11
+Beska arrived Canteen
+Day 4 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 4 09:18
+Lenya ne pozavtrakal and wasted 10 minutes
+Agul otdal naidenny bage of Redko
+Redko poluchil Redkos bage !!!
+Day 4 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 4 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 4 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 4 13:00
+Agul go to lunch
+Day 4 13:00
+Redko go to lunch
+Day 4 13:00
+Opasny go to lunch
+Day 4 13:00
+Lenya go to lunch
+Day 4 13:00
+Beska go to lunch
+Day 4 13:10
+Agul poobedal and wasted 10 minutes
+Day 4 13:10
+Redko poobedal and wasted 10 minutes
+Day 4 13:10
+Opasny poobedal and wasted 10 minutes
+Day 4 13:10
+Lenya ne poobedal and wasted 10 minutes
+Day 4 13:10
+Beska poobedal and wasted 10 minutes
+Day 4 19:00
+Agul go to dinner
+Day 4 19:00
+Redko go to dinner
+Day 4 19:00
+Opasny go to dinner
+Day 4 19:00
+Lenya go to dinner
+Day 4 19:00
+Beska go to dinner
+Day 4 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 4 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 4 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 4 19:10
+Lenya ne pouzhinal and wasted 10 minutes
+Day 4 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 4 21:00
+Agul go to second dinner
+Day 4 21:00
+Redko go to second dinner
+Day 4 21:00
+Opasny go to second dinner
+Day 4 21:00
+Lenya go to second dinner
+Day 4 21:00
+Beska go to second dinner
+Day 4 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 4 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 4 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 4 21:10
+Lenya ne povtorouzhinal and wasted 10 minutes
+Day 4 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 4 23:00
+Agul go to sleep
+Day 4 23:00
+Redko go to sleep
+Day 4 23:00
+Opasny go to sleep
+Day 4 23:00
+Lenya go to sleep
+Day 4 23:00
+Beska go to sleep
+Day 4 23:01
+Agul arrived N2
+Day 4 23:01
+Redko arrived N2
+Day 4 23:01
+Opasny arrived N2
+Day 4 23:01
+Lenya arrived N2
+Day 4 23:01
+Beska arrived N2
+Day 4 23:03
+Agul arrived N3
+Day 4 23:03
+Redko arrived N3
+Day 4 23:03
+Opasny arrived N3
+Day 4 23:03
+Lenya arrived N3
+Day 4 23:03
+Beska arrived N3
+Day 4 23:06
+Agul arrived Square
+Day 4 23:06
+Lenya arrived Square
+Day 4 23:07
+Redko arrived Square
+Day 4 23:08
+Agul arrived MainHouse
+Agul poluchil Lenyas bage !!!
+Day 4 23:08
+Opasny arrived Square
+Day 4 23:08
+Lenya arrived MainHouse
+Day 4 23:09
+Redko arrived MainHouse
+Day 4 23:09
+Beska arrived Square
+Day 4 23:10
+Opasny arrived MainHouse
+Day 4 23:11
+Beska arrived MainHouse
+Day 5 07:08
+Agul usnul and wasted 480 minutes
+Day 5 07:08
+Lenya usnul and wasted 480 minutes
+Agul otdal naidenny bage of Lenya
+Lenya poluchil Lenyas bage !!!
+Day 5 07:09
+Redko usnul and wasted 480 minutes
+Day 5 07:10
+Opasny usnul and wasted 480 minutes
+Day 5 07:11
+Beska usnul and wasted 480 minutes
+Day 5 09:00
+Agul go to brekfast
+Day 5 09:00
+Redko go to brekfast
+Day 5 09:00
+Opasny go to brekfast
+Day 5 09:00
+Lenya go to brekfast
+Day 5 09:00
+Beska go to brekfast
+Day 5 09:01
+Agul arrived Square
+Day 5 09:01
+Redko arrived Square
+Day 5 09:01
+Opasny arrived Square
+Day 5 09:01
+Lenya arrived Square
+Day 5 09:01
+Beska arrived Square
+Day 5 09:04
+Agul arrived N3
+Day 5 09:04
+Lenya arrived N3
+Day 5 09:05
+Redko arrived N3
+Day 5 09:06
+Agul arrived N2
+Day 5 09:06
+Opasny arrived N3
+Day 5 09:06
+Lenya arrived N2
+Day 5 09:07
+Redko arrived N2
+Day 5 09:07
+Beska arrived N3
+Day 5 09:08
+Agul arrived Canteen
+Day 5 09:08
+Opasny arrived N2
+Day 5 09:08
+Lenya arrived Canteen
+Day 5 09:09
+Redko arrived Canteen
+Day 5 09:09
+Beska arrived N2
+Day 5 09:10
+Opasny arrived Canteen
+Day 5 09:11
+Beska arrived Canteen
+Day 5 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 5 09:18
+Lenya pozavtrakal and wasted 10 minutes
+Day 5 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 5 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 5 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 5 13:00
+Agul go to lunch
+Day 5 13:00
+Redko go to lunch
+Day 5 13:00
+Opasny go to lunch
+Day 5 13:00
+Lenya go to lunch
+Day 5 13:00
+Beska go to lunch
+Day 5 13:10
+Agul poobedal and wasted 10 minutes
+Day 5 13:10
+Redko poobedal and wasted 10 minutes
+Day 5 13:10
+Opasny poobedal and wasted 10 minutes
+Day 5 13:10
+Lenya poobedal and wasted 10 minutes
+Day 5 13:10
+Beska poobedal and wasted 10 minutes
+Day 5 13:50
+Beska vnezapno usnul
+Day 5 14:05
+Beska prosnuls9 and wasted 15 minutes
+Day 5 17:51
+Lenya zav9zivaet shnurki
+Day 5 17:54
+Lenya zav9zal and wasted 3 minutes
+Day 5 19:00
+Agul go to dinner
+Day 5 19:00
+Redko go to dinner
+Day 5 19:00
+Opasny go to dinner
+Day 5 19:00
+Lenya go to dinner
+Day 5 19:00
+Beska go to dinner
+Day 5 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 5 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 5 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 5 19:10
+Lenya pouzhinal and wasted 10 minutes
+Day 5 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 5 21:00
+Agul go to second dinner
+Day 5 21:00
+Redko go to second dinner
+Day 5 21:00
+Opasny go to second dinner
+Day 5 21:00
+Lenya go to second dinner
+Day 5 21:00
+Beska go to second dinner
+Day 5 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 5 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 5 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 5 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 5 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 5 23:00
+Agul go to sleep
+Day 5 23:00
+Redko go to sleep
+Day 5 23:00
+Opasny go to sleep
+Day 5 23:00
+Lenya go to sleep
+Day 5 23:00
+Beska go to sleep
+Day 5 23:01
+Agul arrived N2
+Day 5 23:01
+Redko arrived N2
+Day 5 23:01
+Opasny arrived N2
+Day 5 23:01
+Lenya arrived N2
+Day 5 23:01
+Beska arrived N2
+Day 5 23:03
+Agul arrived N3
+Day 5 23:03
+Redko arrived N3
+Day 5 23:03
+Opasny arrived N3
+Day 5 23:03
+Lenya arrived N3
+Day 5 23:03
+Beska arrived N3
+Day 5 23:06
+Agul arrived Square
+Day 5 23:06
+Lenya arrived Square
+Day 5 23:07
+Redko arrived Square
+Day 5 23:08
+Agul arrived MainHouse
+Day 5 23:08
+Opasny arrived Square
+Day 5 23:08
+Lenya arrived MainHouse
+Day 5 23:09
+Redko arrived MainHouse
+Day 5 23:09
+Beska arrived Square
+Day 5 23:10
+Opasny arrived MainHouse
+Day 5 23:11
+Beska arrived MainHouse
+Day 6 07:08
+Agul usnul and wasted 480 minutes
+Day 6 07:08
+Lenya usnul and wasted 480 minutes
+Day 6 07:09
+Redko usnul and wasted 480 minutes
+Day 6 07:10
+Opasny usnul and wasted 480 minutes
+Day 6 07:11
+Beska usnul and wasted 480 minutes
+Day 6 08:17
+Lenya poteryal beigik!
+Day 6 08:22
+Lenya plakal i iskal and wasted 5 minutes
+Day 6 08:46
+Opasny otzhimaetsya
+Day 6 08:51
+Opasny otzhals9 and wasted 5 minutes
+Day 6 09:00
+Agul go to brekfast
+Day 6 09:00
+Redko go to brekfast
+Day 6 09:00
+Opasny go to brekfast
+Day 6 09:00
+Lenya go to brekfast
+Day 6 09:00
+Beska go to brekfast
+Day 6 09:01
+Agul arrived Square
+Day 6 09:01
+Redko arrived Square
+Day 6 09:01
+Opasny arrived Square
+Day 6 09:01
+Lenya arrived Square
+Day 6 09:01
+Beska arrived Square
+Day 6 09:04
+Agul arrived N3
+Day 6 09:04
+Lenya arrived N3
+Day 6 09:05
+Redko arrived N3
+Day 6 09:06
+Agul arrived N2
+Day 6 09:06
+Opasny arrived N3
+Day 6 09:06
+Lenya arrived N2
+Day 6 09:07
+Redko arrived N2
+Day 6 09:07
+Beska arrived N3
+Day 6 09:08
+Agul arrived Canteen
+Day 6 09:08
+Opasny arrived N2
+Day 6 09:08
+Lenya arrived Canteen
+Day 6 09:09
+Redko arrived Canteen
+Day 6 09:09
+Beska arrived N2
+Day 6 09:10
+Opasny arrived Canteen
+Day 6 09:11
+Beska arrived Canteen
+Day 6 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 6 09:18
+Lenya ne pozavtrakal and wasted 10 minutes
+Day 6 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 6 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 6 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 6 13:00
+Agul go to lunch
+Day 6 13:00
+Redko go to lunch
+Day 6 13:00
+Opasny go to lunch
+Day 6 13:00
+Lenya go to lunch
+Day 6 13:00
+Beska go to lunch
+Day 6 13:10
+Agul poobedal and wasted 10 minutes
+Day 6 13:10
+Redko poobedal and wasted 10 minutes
+Day 6 13:10
+Opasny poobedal and wasted 10 minutes
+Day 6 13:10
+Lenya ne poobedal and wasted 10 minutes
+Day 6 13:10
+Beska poobedal and wasted 10 minutes
+Day 6 14:38
+Opasny zav9zivaet shnurki
+Day 6 14:41
+Opasny zav9zal and wasted 3 minutes
+Day 6 14:52
+Redko zav9zivaet shnurki
+Day 6 14:55
+Redko zav9zal and wasted 3 minutes
+Day 6 16:53
+Lenya otzhimaetsya
+Day 6 16:58
+Lenya otzhals9 and wasted 5 minutes
+Day 6 19:00
+Agul go to dinner
+Day 6 19:00
+Redko go to dinner
+Day 6 19:00
+Opasny go to dinner
+Day 6 19:00
+Lenya go to dinner
+Day 6 19:00
+Beska go to dinner
+Day 6 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 6 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 6 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 6 19:10
+Lenya ne pouzhinal and wasted 10 minutes
+Day 6 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 6 21:00
+Agul go to second dinner
+Day 6 21:00
+Redko go to second dinner
+Day 6 21:00
+Opasny go to second dinner
+Day 6 21:00
+Lenya go to second dinner
+Day 6 21:00
+Beska go to second dinner
+Day 6 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 6 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 6 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 6 21:10
+Lenya ne povtorouzhinal and wasted 10 minutes
+Day 6 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 6 23:00
+Agul go to sleep
+Day 6 23:00
+Redko go to sleep
+Day 6 23:00
+Opasny go to sleep
+Day 6 23:00
+Lenya go to sleep
+Day 6 23:00
+Beska go to sleep
+Day 6 23:01
+Agul arrived N2
+Day 6 23:01
+Redko arrived N2
+Day 6 23:01
+Opasny arrived N2
+Day 6 23:01
+Lenya arrived N2
+Day 6 23:01
+Beska arrived N2
+Day 6 23:03
+Agul arrived N3
+Day 6 23:03
+Redko arrived N3
+Day 6 23:03
+Opasny arrived N3
+Day 6 23:03
+Lenya arrived N3
+Day 6 23:03
+Beska vnezapno usnul
+Day 6 23:03
+Beska arrived N3
+Day 6 23:06
+Agul arrived Square
+Day 6 23:06
+Lenya arrived Square
+Day 6 23:07
+Redko arrived Square
+Day 6 23:08
+Agul arrived MainHouse
+Agul poluchil Lenyas bage !!!
+Day 6 23:08
+Redko vnezapno usnul
+Day 6 23:08
+Opasny arrived Square
+Day 6 23:08
+Lenya arrived MainHouse
+Day 6 23:10
+Opasny arrived MainHouse
+Day 6 23:18
+Beska prosnuls9 and wasted 15 minutes
+Day 6 23:23
+Redko prosnuls9 and wasted 15 minutes
+Day 6 23:25
+Beska arrived Square
+Day 6 23:26
+Redko arrived MainHouse
+Day 6 23:27
+Beska arrived MainHouse
+Day 7 07:08
+Agul usnul and wasted 480 minutes
+Day 7 07:08
+Lenya usnul and wasted 480 minutes
+Agul otdal naidenny bage of Lenya
+Lenya poluchil Lenyas bage !!!
+Day 7 07:10
+Opasny usnul and wasted 480 minutes
+Day 7 07:26
+Redko usnul and wasted 480 minutes
+Day 7 07:27
+Beska usnul and wasted 480 minutes
+Day 7 09:00
+Agul go to brekfast
+Day 7 09:00
+Redko go to brekfast
+Day 7 09:00
+Opasny go to brekfast
+Day 7 09:00
+Lenya go to brekfast
+Day 7 09:00
+Beska go to brekfast
+Day 7 09:01
+Agul arrived Square
+Day 7 09:01
+Redko arrived Square
+Day 7 09:01
+Opasny arrived Square
+Day 7 09:01
+Lenya arrived Square
+Day 7 09:01
+Beska arrived Square
+Day 7 09:04
+Agul arrived N3
+Day 7 09:04
+Lenya arrived N3
+Day 7 09:05
+Redko arrived N3
+Day 7 09:06
+Agul arrived N2
+Day 7 09:06
+Opasny arrived N3
+Day 7 09:06
+Lenya arrived N2
+Day 7 09:07
+Redko arrived N2
+Day 7 09:07
+Beska arrived N3
+Day 7 09:08
+Agul arrived Canteen
+Day 7 09:08
+Opasny arrived N2
+Day 7 09:08
+Lenya arrived Canteen
+Day 7 09:09
+Redko arrived Canteen
+Day 7 09:09
+Beska arrived N2
+Day 7 09:10
+Opasny arrived Canteen
+Day 7 09:11
+Beska arrived Canteen
+Day 7 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 7 09:18
+Lenya pozavtrakal and wasted 10 minutes
+Day 7 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 7 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 7 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 7 13:00
+Agul go to lunch
+Day 7 13:00
+Redko go to lunch
+Day 7 13:00
+Opasny go to lunch
+Day 7 13:00
+Lenya go to lunch
+Day 7 13:00
+Beska go to lunch
+Day 7 13:10
+Agul poobedal and wasted 10 minutes
+Day 7 13:10
+Redko poobedal and wasted 10 minutes
+Day 7 13:10
+Opasny poobedal and wasted 10 minutes
+Day 7 13:10
+Lenya poobedal and wasted 10 minutes
+Day 7 13:10
+Beska poobedal and wasted 10 minutes
+Day 7 16:43
+Beska zav9zivaet shnurki
+Day 7 16:46
+Beska zav9zal and wasted 3 minutes
+Day 7 19:00
+Agul go to dinner
+Day 7 19:00
+Redko go to dinner
+Day 7 19:00
+Opasny go to dinner
+Day 7 19:00
+Lenya go to dinner
+Day 7 19:00
+Beska go to dinner
+Day 7 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 7 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 7 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 7 19:10
+Lenya pouzhinal and wasted 10 minutes
+Day 7 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 7 21:00
+Agul go to second dinner
+Day 7 21:00
+Redko go to second dinner
+Day 7 21:00
+Opasny go to second dinner
+Day 7 21:00
+Lenya go to second dinner
+Day 7 21:00
+Beska go to second dinner
+Day 7 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 7 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 7 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 7 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 7 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 7 23:00
+Agul go to sleep
+Day 7 23:00
+Redko go to sleep
+Day 7 23:00
+Opasny go to sleep
+Day 7 23:00
+Lenya go to sleep
+Day 7 23:00
+Beska go to sleep
+Day 7 23:01
+Agul arrived N2
+Day 7 23:01
+Redko arrived N2
+Day 7 23:01
+Opasny arrived N2
+Day 7 23:01
+Lenya arrived N2
+Day 7 23:01
+Beska arrived N2
+Day 7 23:03
+Agul arrived N3
+Day 7 23:03
+Redko arrived N3
+Day 7 23:03
+Opasny arrived N3
+Day 7 23:03
+Lenya arrived N3
+Day 7 23:03
+Beska arrived N3
+Day 7 23:06
+Agul arrived Square
+Day 7 23:06
+Lenya arrived Square
+Day 7 23:07
+Redko arrived Square
+Day 7 23:08
+Agul arrived MainHouse
+Day 7 23:08
+Opasny arrived Square
+Day 7 23:08
+Lenya arrived MainHouse
+Day 7 23:09
+Redko arrived MainHouse
+Day 7 23:09
+Beska arrived Square
+Day 7 23:10
+Opasny arrived MainHouse
+Day 7 23:11
+Beska arrived MainHouse
+Day 8 07:08
+Agul usnul and wasted 480 minutes
+Day 8 07:08
+Lenya usnul and wasted 480 minutes
+Day 8 07:09
+Redko usnul and wasted 480 minutes
+Day 8 07:10
+Opasny usnul and wasted 480 minutes
+Day 8 07:11
+Beska usnul and wasted 480 minutes
+Day 8 09:00
+Agul go to brekfast
+Day 8 09:00
+Redko go to brekfast
+Day 8 09:00
+Opasny go to brekfast
+Day 8 09:00
+Lenya go to brekfast
+Day 8 09:00
+Beska go to brekfast
+Day 8 09:01
+Agul arrived Square
+Day 8 09:01
+Redko arrived Square
+Day 8 09:01
+Opasny arrived Square
+Day 8 09:01
+Lenya arrived Square
+Day 8 09:01
+Beska arrived Square
+Day 8 09:04
+Agul arrived N3
+Day 8 09:04
+Lenya arrived N3
+Day 8 09:05
+Redko arrived N3
+Day 8 09:06
+Agul arrived N2
+Day 8 09:06
+Opasny arrived N3
+Day 8 09:06
+Lenya arrived N2
+Day 8 09:07
+Redko arrived N2
+Day 8 09:07
+Beska arrived N3
+Day 8 09:08
+Agul arrived Canteen
+Day 8 09:08
+Opasny arrived N2
+Day 8 09:08
+Lenya arrived Canteen
+Day 8 09:09
+Redko arrived Canteen
+Day 8 09:09
+Beska arrived N2
+Day 8 09:10
+Opasny arrived Canteen
+Day 8 09:11
+Beska arrived Canteen
+Day 8 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 8 09:18
+Lenya pozavtrakal and wasted 10 minutes
+Day 8 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 8 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 8 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 8 10:15
+Lenya poteryal beigik!
+Day 8 10:20
+Lenya plakal i iskal and wasted 5 minutes
+Day 8 11:33
+Redko vnezapno usnul
+Day 8 11:48
+Redko prosnuls9 and wasted 15 minutes
+Day 8 13:00
+Agul go to lunch
+Day 8 13:00
+Redko go to lunch
+Day 8 13:00
+Opasny go to lunch
+Day 8 13:00
+Lenya go to lunch
+Day 8 13:00
+Beska go to lunch
+Day 8 13:10
+Agul poobedal and wasted 10 minutes
+Day 8 13:10
+Redko poobedal and wasted 10 minutes
+Day 8 13:10
+Opasny poobedal and wasted 10 minutes
+Day 8 13:10
+Lenya ne poobedal and wasted 10 minutes
+Day 8 13:10
+Beska poobedal and wasted 10 minutes
+Day 8 19:00
+Agul go to dinner
+Day 8 19:00
+Redko go to dinner
+Day 8 19:00
+Opasny go to dinner
+Day 8 19:00
+Lenya go to dinner
+Day 8 19:00
+Beska go to dinner
+Day 8 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 8 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 8 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 8 19:10
+Lenya ne pouzhinal and wasted 10 minutes
+Day 8 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 8 21:00
+Agul go to second dinner
+Day 8 21:00
+Redko go to second dinner
+Day 8 21:00
+Opasny go to second dinner
+Day 8 21:00
+Lenya go to second dinner
+Day 8 21:00
+Beska go to second dinner
+Day 8 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 8 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 8 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 8 21:10
+Lenya ne povtorouzhinal and wasted 10 minutes
+Day 8 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 8 23:00
+Agul go to sleep
+Day 8 23:00
+Redko go to sleep
+Day 8 23:00
+Opasny go to sleep
+Day 8 23:00
+Lenya go to sleep
+Day 8 23:00
+Beska go to sleep
+Day 8 23:01
+Agul arrived N2
+Day 8 23:01
+Redko arrived N2
+Day 8 23:01
+Opasny arrived N2
+Day 8 23:01
+Lenya arrived N2
+Day 8 23:01
+Beska arrived N2
+Day 8 23:03
+Agul arrived N3
+Day 8 23:03
+Redko arrived N3
+Day 8 23:03
+Opasny arrived N3
+Day 8 23:03
+Lenya arrived N3
+Day 8 23:03
+Beska arrived N3
+Day 8 23:06
+Agul arrived Square
+Day 8 23:06
+Lenya arrived Square
+Day 8 23:07
+Redko arrived Square
+Day 8 23:08
+Agul arrived MainHouse
+Day 8 23:08
+Opasny arrived Square
+Day 8 23:08
+Lenya arrived MainHouse
+Day 8 23:09
+Redko arrived MainHouse
+Day 8 23:09
+Beska arrived Square
+Day 8 23:10
+Opasny arrived MainHouse
+Day 8 23:11
+Beska arrived MainHouse
+Day 9 07:08
+Agul usnul and wasted 480 minutes
+Day 9 07:08
+Lenya usnul and wasted 480 minutes
+Day 9 07:09
+Redko usnul and wasted 480 minutes
+Day 9 07:10
+Opasny usnul and wasted 480 minutes
+Day 9 07:11
+Beska usnul and wasted 480 minutes
+Day 9 09:00
+Agul go to brekfast
+Day 9 09:00
+Redko go to brekfast
+Day 9 09:00
+Opasny go to brekfast
+Day 9 09:00
+Lenya go to brekfast
+Day 9 09:00
+Beska go to brekfast
+Day 9 09:01
+Agul arrived Square
+Day 9 09:01
+Redko arrived Square
+Day 9 09:01
+Opasny arrived Square
+Day 9 09:01
+Lenya arrived Square
+Day 9 09:01
+Beska arrived Square
+Day 9 09:04
+Agul arrived N3
+Day 9 09:04
+Lenya arrived N3
+Day 9 09:05
+Redko arrived N3
+Day 9 09:06
+Agul arrived N2
+Day 9 09:06
+Opasny arrived N3
+Day 9 09:06
+Lenya arrived N2
+Day 9 09:07
+Redko arrived N2
+Day 9 09:07
+Beska arrived N3
+Day 9 09:08
+Agul arrived Canteen
+Agul poluchil Lenyas bage !!!
+Day 9 09:08
+Opasny arrived N2
+Day 9 09:08
+Lenya arrived Canteen
+Day 9 09:09
+Redko arrived Canteen
+Day 9 09:09
+Beska arrived N2
+Day 9 09:10
+Opasny arrived Canteen
+Day 9 09:11
+Beska arrived Canteen
+Day 9 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 9 09:18
+Lenya ne pozavtrakal and wasted 10 minutes
+Agul otdal naidenny bage of Lenya
+Lenya poluchil Lenyas bage !!!
+Day 9 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 9 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 9 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 9 10:54
+Lenya poteryal beigik!
+Day 9 10:59
+Lenya plakal i iskal and wasted 5 minutes
+Day 9 11:37
+Agul otzhimaetsya
+Day 9 11:42
+Agul otzhals9 and wasted 5 minutes
+Day 9 13:00
+Agul go to lunch
+Day 9 13:00
+Redko go to lunch
+Day 9 13:00
+Opasny go to lunch
+Day 9 13:00
+Lenya go to lunch
+Day 9 13:00
+Beska go to lunch
+Day 9 13:10
+Agul poobedal and wasted 10 minutes
+Day 9 13:10
+Redko poobedal and wasted 10 minutes
+Day 9 13:10
+Opasny poobedal and wasted 10 minutes
+Day 9 13:10
+Lenya ne poobedal and wasted 10 minutes
+Day 9 13:10
+Beska poobedal and wasted 10 minutes
+Day 9 19:00
+Agul go to dinner
+Day 9 19:00
+Redko go to dinner
+Day 9 19:00
+Opasny go to dinner
+Day 9 19:00
+Lenya go to dinner
+Day 9 19:00
+Beska go to dinner
+Day 9 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 9 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 9 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 9 19:10
+Lenya ne pouzhinal and wasted 10 minutes
+Day 9 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 9 20:35
+Lenya otzhimaetsya
+Day 9 20:40
+Lenya otzhals9 and wasted 5 minutes
+Day 9 21:00
+Agul go to second dinner
+Day 9 21:00
+Redko go to second dinner
+Day 9 21:00
+Opasny go to second dinner
+Day 9 21:00
+Lenya go to second dinner
+Day 9 21:00
+Beska go to second dinner
+Day 9 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 9 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 9 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 9 21:10
+Lenya ne povtorouzhinal and wasted 10 minutes
+Day 9 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 9 23:00
+Agul go to sleep
+Day 9 23:00
+Redko go to sleep
+Day 9 23:00
+Opasny go to sleep
+Day 9 23:00
+Lenya go to sleep
+Day 9 23:00
+Beska go to sleep
+Day 9 23:01
+Agul arrived N2
+Day 9 23:01
+Redko arrived N2
+Day 9 23:01
+Opasny arrived N2
+Day 9 23:01
+Lenya arrived N2
+Day 9 23:01
+Beska arrived N2
+Day 9 23:03
+Agul arrived N3
+Day 9 23:03
+Redko arrived N3
+Day 9 23:03
+Opasny arrived N3
+Day 9 23:03
+Lenya arrived N3
+Day 9 23:03
+Beska arrived N3
+Day 9 23:06
+Agul arrived Square
+Day 9 23:06
+Lenya arrived Square
+Day 9 23:07
+Redko arrived Square
+Day 9 23:08
+Agul arrived MainHouse
+Day 9 23:08
+Opasny arrived Square
+Day 9 23:08
+Lenya arrived MainHouse
+Day 9 23:09
+Redko arrived MainHouse
+Day 9 23:09
+Beska arrived Square
+Day 9 23:10
+Opasny arrived MainHouse
+Day 9 23:11
+Beska arrived MainHouse
+Day 10 07:08
+Agul usnul and wasted 480 minutes
+Day 10 07:08
+Lenya usnul and wasted 480 minutes
+Day 10 07:09
+Redko usnul and wasted 480 minutes
+Day 10 07:10
+Opasny usnul and wasted 480 minutes
+Day 10 07:11
+Beska usnul and wasted 480 minutes
+Day 10 07:26
+Beska zav9zivaet shnurki
+Day 10 07:29
+Beska zav9zal and wasted 3 minutes
+Day 10 09:00
+Agul go to brekfast
+Day 10 09:00
+Redko go to brekfast
+Day 10 09:00
+Opasny go to brekfast
+Day 10 09:00
+Lenya go to brekfast
+Day 10 09:00
+Beska go to brekfast
+Day 10 09:01
+Agul arrived Square
+Day 10 09:01
+Redko arrived Square
+Day 10 09:01
+Opasny arrived Square
+Day 10 09:01
+Lenya arrived Square
+Day 10 09:01
+Beska arrived Square
+Day 10 09:04
+Agul arrived N3
+Day 10 09:04
+Lenya arrived N3
+Day 10 09:05
+Redko arrived N3
+Day 10 09:06
+Agul arrived N2
+Day 10 09:06
+Opasny arrived N3
+Day 10 09:06
+Lenya arrived N2
+Day 10 09:07
+Redko arrived N2
+Day 10 09:07
+Beska arrived N3
+Day 10 09:08
+Agul arrived Canteen
+Agul poluchil Lenyas bage !!!
+Day 10 09:08
+Opasny arrived N2
+Day 10 09:08
+Lenya arrived Canteen
+Day 10 09:09
+Redko arrived Canteen
+Day 10 09:09
+Beska arrived N2
+Day 10 09:10
+Opasny arrived Canteen
+Day 10 09:11
+Beska arrived Canteen
+Day 10 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 10 09:18
+Lenya ne pozavtrakal and wasted 10 minutes
+Agul otdal naidenny bage of Lenya
+Lenya poluchil Lenyas bage !!!
+Day 10 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 10 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 10 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 10 13:00
+Agul go to lunch
+Day 10 13:00
+Redko go to lunch
+Day 10 13:00
+Opasny go to lunch
+Day 10 13:00
+Lenya go to lunch
+Day 10 13:00
+Beska go to lunch
+Day 10 13:10
+Agul poobedal and wasted 10 minutes
+Day 10 13:10
+Redko poobedal and wasted 10 minutes
+Day 10 13:10
+Opasny poobedal and wasted 10 minutes
+Day 10 13:10
+Lenya poobedal and wasted 10 minutes
+Day 10 13:10
+Beska poobedal and wasted 10 minutes
+Day 10 18:07
+Beska vnezapno usnul
+Day 10 18:22
+Beska prosnuls9 and wasted 15 minutes
+Day 10 19:00
+Agul go to dinner
+Day 10 19:00
+Redko go to dinner
+Day 10 19:00
+Opasny go to dinner
+Day 10 19:00
+Lenya go to dinner
+Day 10 19:00
+Beska go to dinner
+Day 10 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 10 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 10 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 10 19:10
+Lenya pouzhinal and wasted 10 minutes
+Day 10 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 10 21:00
+Agul go to second dinner
+Day 10 21:00
+Redko go to second dinner
+Day 10 21:00
+Opasny go to second dinner
+Day 10 21:00
+Lenya go to second dinner
+Day 10 21:00
+Beska go to second dinner
+Day 10 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 10 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 10 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 10 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 10 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 10 21:53
+Opasny zav9zivaet shnurki
+Day 10 21:56
+Opasny zav9zal and wasted 3 minutes
+Day 10 22:08
+Beska poteryal beigik!
+Day 10 22:13
+Beska plakal i iskal and wasted 5 minutes
+Day 10 23:00
+Agul go to sleep
+Day 10 23:00
+Redko go to sleep
+Day 10 23:00
+Opasny go to sleep
+Day 10 23:00
+Lenya go to sleep
+Day 10 23:00
+Beska go to sleep
+Day 10 23:01
+Agul arrived N2
+Day 10 23:01
+Redko arrived N2
+Day 10 23:01
+Opasny arrived N2
+Day 10 23:01
+Lenya arrived N2
+Day 10 23:01
+Beska arrived N2
+Day 10 23:03
+Agul arrived N3
+Day 10 23:03
+Redko arrived N3
+Day 10 23:03
+Opasny arrived N3
+Day 10 23:03
+Lenya arrived N3
+Day 10 23:03
+Beska arrived N3
+Day 10 23:06
+Agul arrived Square
+Day 10 23:06
+Lenya arrived Square
+Day 10 23:07
+Redko arrived Square
+Day 10 23:08
+Agul arrived MainHouse
+Day 10 23:08
+Opasny arrived Square
+Day 10 23:08
+Lenya arrived MainHouse
+Day 10 23:09
+Redko arrived MainHouse
+Day 10 23:09
+Beska arrived Square
+Day 10 23:10
+Opasny arrived MainHouse
+Day 10 23:11
+Beska arrived MainHouse
+Day 11 07:08
+Agul usnul and wasted 480 minutes
+Day 11 07:08
+Lenya usnul and wasted 480 minutes
+Day 11 07:09
+Redko usnul and wasted 480 minutes
+Day 11 07:10
+Opasny usnul and wasted 480 minutes
+Day 11 07:11
+Beska usnul and wasted 480 minutes
+Day 11 08:15
+Beska vnezapno usnul
+Day 11 08:21
+Lenya vnezapno usnul
+Day 11 08:30
+Beska prosnuls9 and wasted 15 minutes
+Day 11 08:36
+Lenya prosnuls9 and wasted 15 minutes
+Day 11 09:00
+Agul go to brekfast
+Day 11 09:00
+Redko go to brekfast
+Day 11 09:00
+Opasny go to brekfast
+Day 11 09:00
+Lenya go to brekfast
+Day 11 09:00
+Beska go to brekfast
+Day 11 09:01
+Agul arrived Square
+Day 11 09:01
+Redko arrived Square
+Day 11 09:01
+Opasny arrived Square
+Day 11 09:01
+Lenya arrived Square
+Day 11 09:01
+Beska arrived Square
+Day 11 09:04
+Agul arrived N3
+Day 11 09:04
+Lenya arrived N3
+Day 11 09:05
+Redko arrived N3
+Day 11 09:06
+Agul vnezapno usnul
+Day 11 09:06
+Agul arrived N2
+Day 11 09:06
+Opasny arrived N3
+Day 11 09:06
+Lenya arrived N2
+Day 11 09:07
+Redko arrived N2
+Day 11 09:07
+Beska arrived N3
+Day 11 09:08
+Opasny arrived N2
+Day 11 09:08
+Lenya arrived Canteen
+Lenya poluchil Beskas bage !!!
+Day 11 09:09
+Redko arrived Canteen
+Day 11 09:09
+Beska arrived N2
+Day 11 09:10
+Opasny arrived Canteen
+Day 11 09:11
+Beska arrived Canteen
+Day 11 09:18
+Lenya pozavtrakal and wasted 10 minutes
+Day 11 09:19
+Redko pozavtrakal and wasted 10 minutes
+Lenya otdal naidenny bage of Beska
+Beska poluchil Beskas bage !!!
+Day 11 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 11 09:21
+Agul prosnuls9 and wasted 15 minutes
+Day 11 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 11 09:24
+Agul arrived Canteen
+Day 11 09:34
+Agul pozavtrakal and wasted 10 minutes
+Day 11 10:00
+Lenya vnezapno usnul
+Day 11 10:15
+Lenya prosnuls9 and wasted 15 minutes
+Day 11 10:42
+Lenya vnezapno usnul
+Day 11 10:57
+Lenya prosnuls9 and wasted 15 minutes
+Day 11 13:00
+Agul go to lunch
+Day 11 13:00
+Redko go to lunch
+Day 11 13:00
+Opasny go to lunch
+Day 11 13:00
+Lenya go to lunch
+Day 11 13:00
+Beska go to lunch
+Day 11 13:10
+Agul poobedal and wasted 10 minutes
+Day 11 13:10
+Redko poobedal and wasted 10 minutes
+Day 11 13:10
+Opasny poobedal and wasted 10 minutes
+Day 11 13:10
+Lenya poobedal and wasted 10 minutes
+Day 11 13:10
+Beska poobedal and wasted 10 minutes
+Day 11 15:41
+Redko zav9zivaet shnurki
+Day 11 15:44
+Redko zav9zal and wasted 3 minutes
+Day 11 16:32
+Beska vnezapno usnul
+Day 11 16:47
+Beska prosnuls9 and wasted 15 minutes
+Day 11 18:54
+Lenya otzhimaetsya
+Day 11 18:59
+Lenya otzhals9 and wasted 5 minutes
+Day 11 19:00
+Agul go to dinner
+Day 11 19:00
+Redko go to dinner
+Day 11 19:00
+Opasny go to dinner
+Day 11 19:00
+Lenya go to dinner
+Day 11 19:00
+Beska go to dinner
+Day 11 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 11 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 11 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 11 19:10
+Lenya pouzhinal and wasted 10 minutes
+Day 11 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 11 21:00
+Agul go to second dinner
+Day 11 21:00
+Redko go to second dinner
+Day 11 21:00
+Opasny go to second dinner
+Day 11 21:00
+Lenya go to second dinner
+Day 11 21:00
+Beska go to second dinner
+Day 11 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 11 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 11 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 11 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 11 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 11 23:00
+Agul go to sleep
+Day 11 23:00
+Redko go to sleep
+Day 11 23:00
+Opasny go to sleep
+Day 11 23:00
+Lenya go to sleep
+Day 11 23:00
+Beska go to sleep
+Day 11 23:01
+Agul arrived N2
+Day 11 23:01
+Redko arrived N2
+Day 11 23:01
+Opasny arrived N2
+Day 11 23:01
+Lenya arrived N2
+Day 11 23:01
+Beska arrived N2
+Day 11 23:03
+Agul arrived N3
+Day 11 23:03
+Redko arrived N3
+Day 11 23:03
+Opasny arrived N3
+Day 11 23:03
+Lenya arrived N3
+Day 11 23:03
+Beska arrived N3
+Day 11 23:06
+Agul arrived Square
+Day 11 23:06
+Lenya arrived Square
+Day 11 23:07
+Redko arrived Square
+Day 11 23:08
+Agul arrived MainHouse
+Day 11 23:08
+Opasny arrived Square
+Day 11 23:08
+Lenya arrived MainHouse
+Day 11 23:09
+Redko arrived MainHouse
+Day 11 23:09
+Beska arrived Square
+Day 11 23:10
+Opasny arrived MainHouse
+Day 11 23:11
+Beska arrived MainHouse
+Day 12 07:08
+Agul usnul and wasted 480 minutes
+Day 12 07:08
+Lenya usnul and wasted 480 minutes
+Day 12 07:09
+Redko usnul and wasted 480 minutes
+Day 12 07:10
+Opasny usnul and wasted 480 minutes
+Day 12 07:11
+Beska usnul and wasted 480 minutes
+Day 12 09:00
+Agul go to brekfast
+Day 12 09:00
+Redko go to brekfast
+Day 12 09:00
+Opasny go to brekfast
+Day 12 09:00
+Lenya go to brekfast
+Day 12 09:00
+Beska go to brekfast
+Day 12 09:01
+Agul arrived Square
+Day 12 09:01
+Redko arrived Square
+Day 12 09:01
+Opasny arrived Square
+Day 12 09:01
+Lenya arrived Square
+Day 12 09:01
+Beska arrived Square
+Day 12 09:04
+Agul arrived N3
+Day 12 09:04
+Lenya arrived N3
+Day 12 09:05
+Redko arrived N3
+Day 12 09:06
+Agul arrived N2
+Day 12 09:06
+Opasny arrived N3
+Day 12 09:06
+Lenya arrived N2
+Day 12 09:07
+Redko arrived N2
+Day 12 09:07
+Beska arrived N3
+Day 12 09:08
+Agul arrived Canteen
+Day 12 09:08
+Opasny arrived N2
+Day 12 09:08
+Lenya arrived Canteen
+Day 12 09:09
+Redko arrived Canteen
+Day 12 09:09
+Beska arrived N2
+Day 12 09:10
+Opasny arrived Canteen
+Day 12 09:11
+Beska arrived Canteen
+Day 12 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 12 09:18
+Lenya pozavtrakal and wasted 10 minutes
+Day 12 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 12 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 12 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 12 12:54
+Beska zav9zivaet shnurki
+Day 12 12:57
+Beska zav9zal and wasted 3 minutes
+Day 12 13:00
+Agul go to lunch
+Day 12 13:00
+Redko go to lunch
+Day 12 13:00
+Opasny go to lunch
+Day 12 13:00
+Lenya go to lunch
+Day 12 13:00
+Beska go to lunch
+Day 12 13:10
+Agul poobedal and wasted 10 minutes
+Day 12 13:10
+Redko poobedal and wasted 10 minutes
+Day 12 13:10
+Opasny poobedal and wasted 10 minutes
+Day 12 13:10
+Lenya poobedal and wasted 10 minutes
+Day 12 13:10
+Beska poobedal and wasted 10 minutes
+Day 12 13:57
+Lenya zav9zivaet shnurki
+Day 12 14:00
+Lenya zav9zal and wasted 3 minutes
+Day 12 15:27
+Opasny poteryal beigik!
+Day 12 15:32
+Opasny plakal i iskal and wasted 5 minutes
+Day 12 15:58
+Opasny otzhimaetsya
+Day 12 16:03
+Opasny otzhals9 and wasted 5 minutes
+Day 12 16:46
+Redko zav9zivaet shnurki
+Day 12 16:49
+Redko zav9zal and wasted 3 minutes
+Day 12 17:37
+Agul otzhimaetsya
+Day 12 17:42
+Agul otzhals9 and wasted 5 minutes
+Day 12 19:00
+Agul go to dinner
+Day 12 19:00
+Redko go to dinner
+Day 12 19:00
+Opasny go to dinner
+Day 12 19:00
+Lenya go to dinner
+Day 12 19:00
+Beska go to dinner
+Day 12 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 12 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 12 19:10
+Opasny ne pouzhinal and wasted 10 minutes
+Day 12 19:10
+Lenya pouzhinal and wasted 10 minutes
+Day 12 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 12 21:00
+Agul go to second dinner
+Day 12 21:00
+Redko go to second dinner
+Day 12 21:00
+Opasny go to second dinner
+Day 12 21:00
+Lenya go to second dinner
+Day 12 21:00
+Beska go to second dinner
+Day 12 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 12 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 12 21:10
+Opasny ne povtorouzhinal and wasted 10 minutes
+Day 12 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 12 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 12 21:13
+Redko poteryal beigik!
+Day 12 21:18
+Redko plakal i iskal and wasted 5 minutes
+Day 12 23:00
+Agul go to sleep
+Day 12 23:00
+Redko go to sleep
+Day 12 23:00
+Opasny go to sleep
+Day 12 23:00
+Lenya go to sleep
+Day 12 23:00
+Beska go to sleep
+Day 12 23:01
+Agul arrived N2
+Day 12 23:01
+Redko arrived N2
+Day 12 23:01
+Opasny arrived N2
+Day 12 23:01
+Lenya arrived N2
+Day 12 23:01
+Beska arrived N2
+Day 12 23:03
+Agul arrived N3
+Day 12 23:03
+Redko arrived N3
+Day 12 23:03
+Opasny arrived N3
+Day 12 23:03
+Lenya arrived N3
+Day 12 23:03
+Beska arrived N3
+Day 12 23:06
+Agul arrived Square
+Day 12 23:06
+Lenya arrived Square
+Day 12 23:07
+Redko arrived Square
+Day 12 23:08
+Agul arrived MainHouse
+Day 12 23:08
+Opasny arrived Square
+Day 12 23:08
+Lenya arrived MainHouse
+Day 12 23:09
+Redko arrived MainHouse
+Day 12 23:09
+Beska arrived Square
+Day 12 23:10
+Opasny arrived MainHouse
+Day 12 23:11
+Beska arrived MainHouse
+Day 13 07:08
+Agul usnul and wasted 480 minutes
+Day 13 07:08
+Lenya usnul and wasted 480 minutes
+Day 13 07:09
+Redko usnul and wasted 480 minutes
+Day 13 07:10
+Opasny usnul and wasted 480 minutes
+Day 13 07:11
+Beska usnul and wasted 480 minutes
+Day 13 09:00
+Agul go to brekfast
+Day 13 09:00
+Redko go to brekfast
+Day 13 09:00
+Opasny go to brekfast
+Day 13 09:00
+Lenya go to brekfast
+Day 13 09:00
+Beska go to brekfast
+Day 13 09:01
+Agul arrived Square
+Day 13 09:01
+Redko arrived Square
+Day 13 09:01
+Opasny arrived Square
+Day 13 09:01
+Lenya arrived Square
+Day 13 09:01
+Beska arrived Square
+Day 13 09:04
+Agul arrived N3
+Day 13 09:04
+Lenya arrived N3
+Day 13 09:05
+Redko arrived N3
+Day 13 09:06
+Agul arrived N2
+Day 13 09:06
+Opasny arrived N3
+Day 13 09:06
+Lenya arrived N2
+Day 13 09:07
+Redko arrived N2
+Day 13 09:07
+Beska arrived N3
+Day 13 09:08
+Agul arrived Canteen
+Agul poluchil Redkos bage !!!
+Agul poluchil Opasnys bage !!!
+Day 13 09:08
+Opasny arrived N2
+Day 13 09:08
+Lenya arrived Canteen
+Day 13 09:09
+Redko arrived Canteen
+Day 13 09:09
+Beska arrived N2
+Day 13 09:10
+Opasny arrived Canteen
+Day 13 09:11
+Beska arrived Canteen
+Day 13 09:18
+Agul pozavtrakal and wasted 10 minutes
+Day 13 09:18
+Lenya pozavtrakal and wasted 10 minutes
+Agul otdal naidenny bage of Redko
+Redko poluchil Redkos bage !!!
+Agul otdal naidenny bage of Opasny
+Opasny poluchil Opasnys bage !!!
+Day 13 09:19
+Redko pozavtrakal and wasted 10 minutes
+Day 13 09:20
+Opasny pozavtrakal and wasted 10 minutes
+Day 13 09:21
+Beska pozavtrakal and wasted 10 minutes
+Day 13 13:00
+Agul go to lunch
+Day 13 13:00
+Redko go to lunch
+Day 13 13:00
+Opasny go to lunch
+Day 13 13:00
+Lenya go to lunch
+Day 13 13:00
+Beska go to lunch
+Day 13 13:10
+Agul poobedal and wasted 10 minutes
+Day 13 13:10
+Redko poobedal and wasted 10 minutes
+Day 13 13:10
+Opasny poobedal and wasted 10 minutes
+Day 13 13:10
+Lenya poobedal and wasted 10 minutes
+Day 13 13:10
+Beska poobedal and wasted 10 minutes
+Day 13 14:22
+Opasny vnezapno usnul
+Day 13 14:37
+Opasny prosnuls9 and wasted 15 minutes
+Day 13 19:00
+Agul go to dinner
+Day 13 19:00
+Redko go to dinner
+Day 13 19:00
+Opasny go to dinner
+Day 13 19:00
+Lenya go to dinner
+Day 13 19:00
+Beska go to dinner
+Day 13 19:10
+Agul pouzhinal and wasted 10 minutes
+Day 13 19:10
+Redko pouzhinal and wasted 10 minutes
+Day 13 19:10
+Opasny pouzhinal and wasted 10 minutes
+Day 13 19:10
+Lenya pouzhinal and wasted 10 minutes
+Day 13 19:10
+Beska pouzhinal and wasted 10 minutes
+Day 13 21:00
+Agul go to second dinner
+Day 13 21:00
+Redko go to second dinner
+Day 13 21:00
+Opasny go to second dinner
+Day 13 21:00
+Lenya go to second dinner
+Day 13 21:00
+Beska go to second dinner
+Day 13 21:10
+Agul povtorouzhinal and wasted 10 minutes
+Day 13 21:10
+Redko povtorouzhinal and wasted 10 minutes
+Day 13 21:10
+Opasny povtorouzhinal and wasted 10 minutes
+Day 13 21:10
+Lenya povtorouzhinal and wasted 10 minutes
+Day 13 21:10
+Beska povtorouzhinal and wasted 10 minutes
+Day 13 23:00
+Agul go to sleep
+Day 13 23:00
+Redko go to sleep
+Day 13 23:00
+Opasny go to sleep
+Day 13 23:00
+Lenya go to sleep
+Day 13 23:00
+Beska go to sleep
+Day 13 23:01
+Agul arrived N2
+Day 13 23:01
+Redko arrived N2
+Day 13 23:01
+Opasny arrived N2
+Day 13 23:01
+Lenya arrived N2
+Day 13 23:01
+Beska arrived N2
+Day 13 23:03
+Agul arrived N3
+Day 13 23:03
+Redko arrived N3
+Day 13 23:03
+Opasny arrived N3
+Day 13 23:03
+Lenya arrived N3
+Day 13 23:03
+Beska arrived N3
+Day 13 23:06
+Agul arrived Square
+Day 13 23:06
+Lenya arrived Square
+Day 13 23:07
+Redko arrived Square
+Day 13 23:08
+Agul arrived MainHouse
+Day 13 23:08
+Opasny arrived Square
+Day 13 23:08
+Lenya arrived MainHouse
+Day 13 23:09
+Redko arrived MainHouse
+Day 13 23:09
+Beska arrived Square
+Day 13 23:10
+Opasny arrived MainHouse
+Day 13 23:11
+Beska arrived MainHouse
+Day 14 07:08
+Agul usnul and wasted 480 minutes
+Day 14 07:08
+Lenya usnul and wasted 480 minutes
+Day 14 07:09
+Redko usnul and wasted 480 minutes
+Day 14 07:10
+Opasny usnul and wasted 480 minutes
+Day 14 07:11
+Beska usnul and wasted 480 minutes
+Day 14 08:00
+Lshup zavershen

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+    function register()
+    {
+
+        var login=document.getElementById("login").value;
+        var pass=document.getElementById("pass").value;
+        var spass=document.getElementById("spass").value;
+        if(pass!==spass || login.length<4 ||pass.length<5)
+        document.getElementById("info").innerHTML="пароли не совпадают";
+        else {
+
+            document.getElementById("info").innerHTML = "";
+            sendReq("register?"+"login="+login+"&pass="+pass,function(res){
+
+                var span=document.getElementById("info");
+                span.innerHTML=res.currentTarget.responseText;
+
+            });
+        }
+
+    }
+    function sendReq(name,func)
+    {
+        var request=new XMLHttpRequest();
+        request.open("GET",name);
+        request.onload=func;
+        request.send(null);
+
+    }
+    function readress(name)
+    {
+        // console.log(location);
+        location=location.origin+name;
+    }
+    </script>
+
+
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+
+<body>
+    <h1>Регистрация</h1>
+    Логин: <input type="text" id="login"> <br>
+    <br>
+    Пароль: <input type="password" id="pass" > <br>
+    <br>
+    Повторите: <input type="password" id="spass" > <br>
+    <br>
+    <span id="info"></span>
+    <br>
+    <input type="button" style="width: 200px" value="Зарегестрироваться" onclick="register()">
+    <br>
+    <input type="button" style="width: 200px" value="На главную" onclick='readress("/")'>
+</body>
+</html>

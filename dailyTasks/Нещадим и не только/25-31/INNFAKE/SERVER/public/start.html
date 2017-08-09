@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script>
+        function readress(name) {
+            // console.log(location);
+            location = location.origin + name;
+        }
+
+        function logIn() {
+            var login = document.getElementById("login").value;
+            var pass = document.getElementById("pass").value;
+            if (login.length < 4 || pass.length < 5) {
+                document.getElementById("info").innerHTML = "логин должен быть длинее 4ёх символов, а пароль длиннее 5";
+            }
+            else {
+                document.getElementById("info").innerHTML = "";
+                localStorage.KEY=login+pass;
+                sendReq("/login?" + "login=" + login + "&pass=" + pass+"&ip="+localStorage.KEY, function (res) {
+                    //console.log(res);
+                    var r=res.currentTarget.responseText;
+                    document.getElementById("info").innerHTML=r;
+                    if(r==="вход выполнен")
+                    {
+                        readress("/me");
+                    }
+                })
+
+                ;
+            }
+        }
+
+        function sendReq(name, func) {
+            var request = new XMLHttpRequest();
+            request.open("GET", name);
+            request.onload = func;
+            request.send(null);
+
+        }
+        function updateT() {
+            // console.log("called");
+            var n="/time";
+            sendReq(n,function(res){
+                document.getElementById("time").innerHTML=res.currentTarget.responseText;
+            })
+        }
+        setInterval(updateT,800);
+    </script>
+
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>  
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Verdana;
+        color: #222;
+    }
+    
+    h2 {
+        margin: 0 0 30px;
+        font-size: 20px;
+    }
+    
+    #main{
+        text-align: center;
+        margin-top: 150px;
+        width: 300px;
+        padding: 30px;
+        background: #efebeb;
+        border: solid 1px #b4b4b4;
+    }
+    
+    input {
+        margin: 5px;
+        border: 0;
+    }
+    
+    .button {
+        border: 0;
+        color: #fff;
+        padding: 10px;
+        background: #faa400;
+    }
+    
+    .button:hover {
+        cursor: pointer;
+        background: #eb9a00;
+    }
+    
+    #login, #pass {
+        border: 0;
+        padding: 6px;
+        width: 200px;
+    }
+    
+    #time {
+            font-size: 20px;
+            color: #444;
+            font-family: Arial;
+        }
+</style>   
+    
+<center>
+        <div id="main">
+            <h2>Главная страница</h2>
+            Логин: <input type="text" id="login" > 
+            Пароль: <input type="password" id="pass">
+            
+            <p style="margin-top: 15px;">Время на сервере: <span id="time"></span></p>
+            
+            <input type="button" class = "button" style="width: 80px" value="Войти" onclick="logIn()">
+            <input type="button" class = "button" style="width: 150px" value="Зарегистрироваться" onclick="readress('/register')">
+            <input type="button" class = "button" style="width: 150px" value="Об Авторах" onclick="readress('/avtors')">
+            <p id="info"></p>
+        </div>
+    </center>
+</body>
+</html>

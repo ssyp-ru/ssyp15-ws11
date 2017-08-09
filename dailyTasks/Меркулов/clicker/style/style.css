@@ -1,0 +1,26 @@
+body {
+    font-size: 20px;
+}
+
+p {
+    padding: 50px;
+    font-size: 200px;
+}
+
+.red {
+    background-color: red;
+    color: chartreuse;
+}
+
+.blue {
+    background-color: blue;
+    color: darkorange;
+}
+
+.yellow {
+    background-color: yellow;
+    color: purple;
+}
+
+
+

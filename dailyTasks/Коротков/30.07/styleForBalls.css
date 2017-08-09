@@ -1,0 +1,10 @@
+.text {
+	font-family: Corbel, sans-serif;
+	text-align: right;
+	font-size: 25px;
+	line-height: 9px;
+}
+
+canvas {
+	border: 1px solid black;
+}

@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script>
+    function ultraUpdate()
+    {
+        updateLv()
+        updateN();
+        updateM();
+        updateT();
+        updateS();
+        updateQ();
+        updateQC();
+        updateWL();
+        updateLog();
+        updateMl();
+        updateE();
+        //clear();
+        //drawPlayer();
+        updateNpcs();
+
+        //console.log(w);
+    }
+    document.onload=update();
+    function update() {
+         // console.log("called");
+        console.log(localStorage.KEY);
+          var n="/get?"+"need=login"+"&ip="+localStorage.KEY;
+          sendReq(n,function(res)
+          {
+              document.getElementById("login").innerHTML=res.currentTarget.responseText;
+
+          });
+
+           n="/get?"+"need=persC"+"&ip="+localStorage.KEY;
+          sendReq(n,function(res)
+           {
+               // console.log(res);
+               document.getElementById("countPers").innerHTML=res.currentTarget.responseText;
+               // console.log(res.currentTarget.responseText);
+           });
+        setInterval(ultraUpdate,1700);
+        }
+    function sendReq(name, func) {
+        var request = new XMLHttpRequest();
+        request.open("GET", name);
+        request.onload = func;
+        request.send(null);
+
+    }
+    function createPers() {
+        var name=document.getElementById("name").value;
+        var gend=getGend();
+        if(!gend)
+        {
+            document.getElementById("info").innerHTML="не выбран пол";
+            return;
+        }
+        document.getElementById("info").innerHTML="";
+        var n="/create?name="+name+"&gend="+gend+"&ip="+localStorage.KEY;
+        sendReq(n,function ()
+        {
+            update();
+        });
+    }
+    function getGend()  {
+            var elements= document.getElementsByName("gend");
+            for(var i=0;i<elements.length;i++)
+            {
+                if(elements[i].checked)
+                {
+                    return(elements[i].attributes.value.value);
+                }
+            }
+            return null;
+        }
+    function updateN() {
+       // console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=name";
+        sendReq(n,function(res){
+            document.getElementById("nameI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateLv() {
+       // console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=lv";
+        sendReq(n,function(res){
+            document.getElementById("lvlI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateM() {
+       // console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=money";
+        sendReq(n,function(res){
+            document.getElementById("coinsI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateT() {
+      // console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=target";
+        sendReq(n,function(res){
+            document.getElementById("targetI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateS() {
+        // console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=start";
+        sendReq(n,function(res){
+            document.getElementById("startI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateE() {
+        // console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=end";
+        sendReq(n,function(res){
+            document.getElementById("endI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateQ() {
+       // console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=curQ";
+        sendReq(n,function(res){
+            document.getElementById("questI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateQC() {
+      //  console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=qc";
+        sendReq(n,function(res){
+            document.getElementById("qcI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateWL() {
+        //  console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=wayL";
+        sendReq(n,function(res){
+            document.getElementById("wlI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateLog() {
+        //  console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=log";
+        sendReq(n,function(res){
+            document.getElementById("log").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function updateMl() {
+        //  console.log("called");
+        var n="/getI?ip="+localStorage.KEY+"&need=ml";
+        sendReq(n,function(res){
+            document.getElementById("moraleI").innerHTML=res.currentTarget.responseText;
+        })
+    }
+    function ip() {
+    //var socket=new net.WebSocket() ;
+    console.log(localStorage.KEY);
+    }
+    function updateNpcs() {
+        var n="/getNpc";
+        sendReq(n,function(res){
+            var str= res.currentTarget.responseText;
+            var obj=JSON.parse(str);
+            clear();
+            drawPlayer();
+            for(var i in obj)
+            {
+
+                if(typeof(obj[i])==="object")
+                {
+                    drawNpc(obj[i].start,obj[i].end,obj[i].wayL,obj[i].colorI)
+                }
+              }
+
+        })
+    }
+    </script>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Verdana;
+            color: #111;
+        }
+        
+        .map {
+            position: fixed;
+            top: 0;
+            right: 0;
+            background: #c0ff91;
+            width: 60%;
+            height: 60%;
+        }
+        
+        .inf {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            background: #e2e2e2;
+            width: 60%;
+            height: 40%;
+        }
+        
+        .inf img {
+            width: 200px;
+            height: 200px;
+            margin-top: 35px;
+            right: 35px;
+            position: fixed;
+        }
+        
+        .inf h3 {
+            font-size: 16px;
+            margin: 5px 0 10px;
+            color: black;
+        }
+        
+        .inf table {
+            margin: 0 30px 0 10px;
+            font-size: 14px;
+            position: fixed;
+        }
+        
+        .log {
+            position: fixed;
+            top: 0;
+            left: 0;
+            background: #efefef;
+            width: 40%;
+            height: 100%;
+        }
+        
+        .log h3 {
+            text-align: center;
+            margin: 15px;
+        }
+        
+        #log {
+            margin-top: 5%;
+            margin-left: 3%;
+            background: #f5f5f5;
+            width: 90%;
+            height: 80%;
+            border: 1px solid #d4d4d4;
+            position: relative;
+            display: block;
+            padding: 10px;
+            font-size: 12px;
+        }
+        
+        .button {
+            border: 0;
+            color: #fff;
+            padding: 10px;
+            background: #faa400;
+            text-align: center;
+            margin-top: 10px;
+        }
+        
+        .button:hover {
+            cursor: pointer;
+            background: #eb9a00;
+        }
+    </style>
+    
+<div class="inf">
+        <table align="left">
+            <tr><td>
+                <h3>Ваш профиль</h3>
+            </td></tr>
+            <tr><td>
+                Логин: <span id="login"></span>
+            </td></tr>  
+            <tr><td>
+                Кол-во персонажей: <span id="countPers"></span>
+            </td></tr>
+            <tr><td>
+                <span>Имя:</span>
+                <input id="name" type="text" style="border: 0; padding: 4px;">
+            </td></tr>
+            <tr><td>
+                <span>Пол:</span>
+                <input type="radio" name="gend" value="m">М 
+                <input type="radio" name="gend" value="f">Ж
+            </td></tr>
+            <tr><td>
+                <input class="button" type="button" onclick="createPers()" value="СОЗДАТЬ ПЕРСОНАЖА">
+            </td></tr>
+            <tr><td>
+                <span id="info"></span>
+            </td></tr>
+        </table>
+        
+        <table align="left" style="margin-left: 250px;">
+            <tr><td>
+                <h3>Информация о персонаже</h3>
+            </td></tr>
+            <tr><td>
+                Имя:<span id="nameI"></span>
+            </td></tr>
+            <tr><td>
+                Уровень:<span id="lvlI"></span>
+            </td></tr>
+            <tr><td>
+                Откуда идёт:<span id="startI"></span>
+            </td></tr>
+            <tr><td>
+                Промежуточная цель:<span id="endI"></span>
+            </td></tr>
+            <tr><td>
+                Куда:<span id="targetI"></span>
+            </td></tr>
+            <tr><td>
+                Квест:<span id="questI"></span>
+            </td></tr>
+            <tr><td>
+                Золото:<span id="coinsI"></span>
+            </td></tr>
+            <tr><td>
+                Мораль:<span id="moraleI"></span>
+            </td></tr>
+            <tr><td>
+                Выполнено квестов:<span id="qcI"></span>
+            </td></tr>
+            <tr><td>
+                Длина пути:<span id="wlI"></span>
+            </td></tr>
+        </table>
+    
+        <img src="" alt="avatar">
+</div>
+    
+<div id = "map" class="map">
+    <canvas id="canvas" width="820" height="400" ></canvas>
+</div>
+
+    <script>
+        var canvas = document.getElementById('canvas');
+        var ctx = canvas.getContext('2d');
+        var points = [];
+        var roads=[];
+        var koef = 0.4;
+        var tabX = 180;
+        var tabY = 60;
+
+        function initPoints(){
+            points["Футбольное поле"] = new Point(850 * koef + tabX, 650 * koef + tabY);
+            points["Линейка"] = new Point(1250 * koef + tabX, 400 * koef + tabY);
+            points["Корпус"] = new Point(1250 * koef + tabX, 200 * koef + tabY);
+            points["Бильярдная"] = new Point(900 * koef + tabX, 0 * koef + tabY);
+            points["Магазин"] = new Point(0 * koef + tabX, 650 * koef + tabY);
+            points["Мастерские"] = new Point(100 * koef + tabX, 50 * koef + tabY);
+            points["Столовая"] = new Point(700 * koef + tabX, 150 * koef + tabY);
+            points["Перекресток 1"] = new Point(150 * koef + tabX, 250 * koef + tabY);
+            points["Перекресток 2"] = new Point(750 * koef + tabX, 250 * koef + tabY);
+            points["Перекресток 3"] = new Point(850 * koef + tabX, 300 * koef + tabY);
+            points["Забор"] = new Point(50 * koef + tabX, 550 * koef + tabY);
+        }
+        function map() {
+            ctx.beginPath();
+            ctx.lineWidth = 6;
+            ctx.strokeStyle = "#222";
+            ctx.moveTo(150 * koef + tabX, 250 * koef + tabY);//going to перекрёсток 1
+            ctx.lineTo(50 * koef + tabX, 550 * koef + tabY);//gate
+            ctx.lineTo(0 * koef + tabX, 650 * koef + tabY);//shop
+            ctx.moveTo(150 * koef + tabX, 250 * koef + tabY);//going to перекрёсток 1
+            ctx.lineTo(100 * koef + tabX, 50 * koef + tabY);// workshops
+            ctx.moveTo(150 * koef + tabX, 250 * koef + tabY);//going to перекрёсток 1
+            ctx.lineTo(750 * koef + tabX, 250 * koef + tabY); // перекрёсток 2
+            ctx.lineTo(700 * koef + tabX, 150 * koef + tabY);// canteen
+            ctx.moveTo(750 * koef + tabX, 250 * koef + tabY);// going to перекрёсток 2
+            ctx.lineTo(850 * koef + tabX, 300 * koef + tabY);// перекрёсток 3
+            ctx.lineTo(900 * koef + tabX, 0 * koef + tabY);//pool
+            ctx.moveTo(850 * koef + tabX, 300 * koef + tabY);// going to перекрёсток 3
+            ctx.lineTo(1250 * koef + tabX, 400 * koef + tabY);//square
+            ctx.lineTo(1250 * koef + tabX, 200 * koef + tabY);//mainhouse
+            ctx.moveTo(1250 * koef + tabX, 400 * koef + tabY);//going to square
+            ctx.lineTo(850 * koef + tabX, 650 * koef + tabY);//soccer
+            ctx.closePath();
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.strokeStyle = "#FF0000";
+            ctx.fillStyle = "#FF0000";
+            ctx.arc(850 * koef + tabX, 650 * koef + tabY, 5  * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(1250 * koef + tabX, 200 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(1250 * koef + tabX, 400 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(850 * koef + tabX, 300 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(900 * koef + tabX, 0 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(750 * koef + tabX, 250 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(700 * koef + tabX, 150 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(150 * koef + tabX, 250 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(0 * koef + tabX, 650 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(100 * koef + tabX, 50 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+            ctx.beginPath();
+            ctx.arc(50 * koef + tabX, 550 * koef + tabY, 5 * koef, 0, 2 * Math.PI, false);
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+        }
+        initPoints();
+        function initRoads() {
+            roads.push(new Road("Магазин","Забор",30 ));
+            roads.push(new Road("Забор","Перекресток 1",70  ));
+            roads.push(new Road("Перекресток 1","Мастерские",10 ));
+            roads.push(new Road("Перекресток 1","Перекресток 2",150));
+            roads.push(new Road("Перекресток 2","Столовая",10  ));
+            roads.push(new Road("Перекресток 2","Перекресток 3",20  ));
+            roads.push(new Road("Перекресток 3","Бильярдная",90  ));
+            roads.push(new Road("Перекресток 3","Линейка",100  ));
+            roads.push(new Road("Линейка","Корпус",20  ));
+            roads.push(new Road("Линейка","Футбольное поле",100  ));
+            // console.log(roads);
+        }
+        initRoads();
+        console.log(roads);
+        function Road(c1,c2,l){
+            this.start=c1;
+            this.end=c2;
+            this.length=l;
+        }
+        function Point(x,y){
+            this.x = x;
+            this.y = y;
+        }
+        function getPos(start, finish, distance){
+            console.log("start-"+start);
+            console.log("finish-"+finish);
+            console.log("distance-"+distance);
+            var r=findRoad(start,finish);
+            console.log(r);
+            l= r.length;
+            console.log("длина пути "+l);
+            p1=points[start];
+            p2=points[finish];
+            var r=distance/l;
+
+            var x=p1.x-(p1.x-p2.x)*r;
+            var y=p1.y-(p1.y-p2.y)*r;
+            return new Point(x,y);
+        }
+        function findRoad (from, to) {
+            // console.log(roads);
+            for( var i in roads)
+            {
+                if(typeof (roads[i])==="object")
+                {
+                    //console.log(roads[i]);
+                    if((roads[i].start===from&&roads[i].end===to)||(roads[i].end===from&&roads[i].start===to))
+                    {
+                        return roads[i];
+                    }
+                }
+            }
+        }
+        function drawPlayer(){
+
+            var start=document.getElementById("startI").innerHTML.toString();
+            var finish=document.getElementById("endI").innerHTML.toString();
+            var distance=Number(document.getElementById("wlI").innerHTML);
+            var color="yellow";
+
+            ctx.beginPath();
+            ctx.strokeStyle = color;
+            ctx.fillStyle = color;
+            //console.log(start, finish, distance, color);
+            if((start === "null")&&(finish !== "null")){
+                ctx.arc(points[finish].x, points[finish].y, 10 * koef, 0, 2 * Math.PI, false);
+            }
+            else if((start !== "null")&&(finish === "null")){
+                ctx.arc(points[start].x, points[start].y, 10 * koef, 0, 2 * Math.PI, false);
+            }
+            else{
+
+                var p=getPos(start, finish, distance);
+                console.log(p);
+                ctx.arc(p.x, p.y, 10 * koef, 0, 2 * Math.PI, false);
+            }
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+        }
+        function clear() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            map();
+        }
+        function drawNpc(start,finish,distance,color) {
+           // clear();
+            ctx.beginPath();
+            ctx.strokeStyle = color;
+            ctx.fillStyle = color;
+            //console.log(start, finish, distance, color);
+            if((start === "null")&&(finish !== "null")){
+                ctx.arc(points[finish].x, points[finish].y, 10 * koef, 0, 2 * Math.PI, false);
+            }
+            else if((start !== "null")&&(finish === "null")){
+                ctx.arc(points[start].x, points[start].y, 10 * koef, 0, 2 * Math.PI, false);
+            }
+            else{
+
+                var p=getPos(start, finish, distance);
+                console.log(p);
+                ctx.arc(p.x, p.y, 10 * koef, 0, 2 * Math.PI, false);
+            }
+            ctx.stroke();
+            ctx.fill();
+            ctx.closePath();
+        }
+    </script>
+    
+<div class="log">
+    <span id="log"></span>
+    <input type="button" class="button" value="МЕНЮ" 
+           style="width: 80%; margin: 25px 0 0 10%;">
+</div>
+</body>
+</html>

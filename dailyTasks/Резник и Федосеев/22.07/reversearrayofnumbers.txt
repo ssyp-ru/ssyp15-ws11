@@ -1,0 +1,9 @@
+var a = [], b = [];
+for(var i = 0; i < 10; i++) {
+	a.push(Math.round(Math.random()*100));
+}
+console.log(a);
+for(var i = 0; i < 10; i++){
+	b.push(a.pop());
+}
+console.log(b);

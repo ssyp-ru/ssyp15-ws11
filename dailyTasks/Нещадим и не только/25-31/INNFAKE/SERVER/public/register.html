@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        function checkN(name) {
+            var zapr=["!",">","<","(",")","style","script","img","&","dropdatabase","readress","?","/","\\"];
+            for(var i=0;i<zapr.length;i++) {
+                if(name.indexOf(zapr[i])!==-1)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+        setInterval(updateT, 1700);
+        function updateT() {
+            // console.log("called");
+            var n="/time";
+            sendReq(n,function(res){
+                document.getElementById("time").innerHTML=res.currentTarget.responseText;
+            })
+        }
+        
+    function register()
+    {
+
+        var login=document.getElementById("login").value;
+        var pass=document.getElementById("pass").value;
+        var spass=document.getElementById("spass").value;
+        if(!checkN(login))
+        {
+            document.getElementById("info").innerHTML="запрещённые символы в логине";
+            return;
+        }
+        if(login.length<4)
+        {
+            document.getElementById("info").innerHTML="логин должен быть длиной больше 3х символов";
+            return;
+        }
+        if(login.length>11)
+        {
+            document.getElementById("info").innerHTML="логин должен быть длиной меньше 12 символов";
+            return;
+        }
+        if(pass.length>11)
+        {
+            document.getElementById("info").innerHTML="пароль должен быть длиной меньше 12 символов";
+            return;
+        }
+        if(pass.length<5)
+        {
+            document.getElementById("info").innerHTML="пароль должен быть длиной больше 4х символов";
+            return;
+        }
+        if(!checkN(pass))
+        {
+            document.getElementById("info").innerHTML="запрещённые символы в пароле";
+            return;
+        }
+        if(pass!==spass || login.length<4 ||pass.length<5)
+        document.getElementById("info").innerHTML="пароли не совпадают";
+        else {
+
+            document.getElementById("info").innerHTML = "";
+            sendReq("register?"+"login="+login+"&pass="+pass,function(res){
+
+                var span=document.getElementById("info");
+                span.innerHTML=res.currentTarget.responseText;
+                if(span.innerHTML==="успешная регистрация")
+                readress("");
+            });
+        }
+
+    }
+    function sendReq(name,func)
+    {
+        var request=new XMLHttpRequest();
+        request.open("GET",name);
+        request.onload=func;
+        request.send(null);
+
+    }
+
+    function readress(name) {
+            // console.log(location);
+            location = location.origin + name;
+        }
+    </script>
+
+
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+
+<body>
+    
+<style>
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Verdana;
+        color: #222;
+    }
+    
+    h2 {
+        margin: 0 0 30px;
+        font-size: 20px;
+    }
+    
+    #main{
+        text-align: center;
+        margin-top: 150px;
+        width: 300px;
+        padding: 30px;
+        background: #efebeb;
+        border: solid 1px #b4b4b4;
+    }
+    
+    input {
+        margin: 5px;
+        border: 0;
+    }
+    
+    .button {
+        border: 0;
+        color: #fff;
+        padding: 10px;
+        background: #faa400;
+    }
+    
+    .button:hover {
+        cursor: pointer;
+        background: #eb9a00;
+    }
+    
+    #login, #pass, #spass {
+        border: 0;
+        padding: 6px;
+        width: 175px;
+    }
+    
+    #time {
+        font-size: 20px;
+        color: #444;
+        font-family: Arial;
+    }
+</style>
+    <center><div id="main">
+        <h2>Регистрация</h2>
+        Логин: <input type="text" id="login">
+        Пароль: <input type="password" id="pass" >
+        Повторите: <input type="password" id="spass" >
+        <p style="margin-top: 15px;">Время на сервере: <span id="time"></span></p>
+        <input type="button" style="width: 150px" class="button" value="Зарегестрироваться" onclick="register()">
+        <input type="button" style="width: 100px" class="button" value="На главную" onclick='readress("/")'>
+        <p id="info"></p>
+    </center></div>
+</body>
+</html>

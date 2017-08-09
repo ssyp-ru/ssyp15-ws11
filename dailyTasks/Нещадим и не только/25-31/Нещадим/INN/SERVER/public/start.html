@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        function readress(name) {
+            // console.log(location);
+            location = location.origin + name;
+        }
+
+        function logIn() {
+            var login = document.getElementById("login").value;
+            var pass = document.getElementById("pass").value;
+            if (login.length < 4 || pass.length < 5) {
+                document.getElementById("info").innerHTML = "логин должен быть длинее 4ёх символов, а пароль длиннее 5";
+            }
+            else {
+                document.getElementById("info").innerHTML = "";
+                localStorage.KEY=login+pass;
+                sendReq("/login?" + "login=" + login + "&pass=" + pass+"&ip="+localStorage.KEY, function (res) {
+                    //console.log(res);
+                    var r=res.currentTarget.responseText;
+                    document.getElementById("info").innerHTML=r;
+                    if(r==="вход выполнен")
+                    {
+                        readress("/me");
+                    }
+                })
+
+                ;
+            }
+        }
+
+        function sendReq(name, func) {
+            var request = new XMLHttpRequest();
+            request.open("GET", name);
+            request.onload = func;
+            request.send(null);
+
+        }
+    </script>
+
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1 ></h1>
+
+<h1>Главная страница</h1>
+<br>
+Логин: <input type="text" id="login"> <br>
+<br>
+Пароль: <input type="password" id="pass"> <br>
+<br>
+<input type="button" style="width: 200px" value="Войти" onclick="logIn()">
+<br>
+<input type="button" style="width: 200px" value="Зарегистрироваться" onclick="readress('/register')">
+<br>
+<span id="info"></span>
+</body>
+</html>
